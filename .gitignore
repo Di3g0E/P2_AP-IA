@@ -1,0 +1,53 @@
+# Professional .gitignore for AI/DS Projects
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#Configuration
+config/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Data
+data/raw/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# Models
+models/*.pkl
+models/*.h5
+models/*.onnx
+models/*.pt
+models/*.joblib
+!models/.gitkeep
+
+# Logs
+logs/
+
+# Environment
+.env
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+#Documentation
+!doc/*.tex
+!doc/*.pdf
+!doc/*.bib
+!doc/figures/
+doc/

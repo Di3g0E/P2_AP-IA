@@ -27,11 +27,11 @@ Este proyecto implementa la solución para la Práctica 2 de la asignatura Apren
    python -m venv venv
    ```
 2. Activar el entorno virtual:
-   - Windows: `.\venv\Scripts\activate`
+   - Windows: `.venv\Scripts\Activate.ps1`
    - Linux/Mac: `source venv/bin/activate`
 3. Instalar dependencias:
    ```bash
-   pip install -r requirements.txt
+   uv pip install -r P2_AP-IA/requirements.txt --link-mode copy
    ```
 
 ## Cuadernos (PLN Avanzado)

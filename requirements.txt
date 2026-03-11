@@ -6,3 +6,11 @@ matplotlib
 seaborn
 python-dotenv
 pytest
+
+# NLP and Transformers
+transformers
+datasets
+torch
+accelerate
+ipykernel
+notebook

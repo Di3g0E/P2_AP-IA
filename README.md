@@ -22,6 +22,10 @@ Este proyecto implementa la solución para la Práctica 2 de la asignatura Apren
 - `tests/`: Pruebas unitarias y de integración.
 
 ## Instalación
+
+> [!IMPORTANT]
+> Se recomienda utilizar **Python 3.11.13**. El proyecto se ha bajado de versión desde Python 3.13 debido a incompatibilidades críticas de las librerías de Machine Learning (como `torch` y `transformers`) con las versiones más recientes de Python.
+
 1. Crear un entorno virtual:
    ```bash
    python -m venv venv

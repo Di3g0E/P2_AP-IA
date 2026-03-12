@@ -33,6 +33,7 @@ models/*.onnx
 models/*.pt
 models/*.joblib
 !models/.gitkeep
+playground/results*
 
 # Logs
 logs/

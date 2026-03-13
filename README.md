@@ -8,49 +8,60 @@ Este proyecto implementa la solución para la Práctica 2 de la asignatura Apren
 - `data/`: Datos en sus diferentes estados (raw, processed, external).
 - `doc/`: Documentación y memoria del proyecto.
 - `logs/`: Registros de ejecución.
-- `models/`: Modelos entrenados y binarios.
+- `models/`: Modelos entrenados y binarios (incluye el modelo de producción).
 - `playground/`: Espacio para pruebas y cuadernos de análisis.
-  - `nlp_expense_classifier.ipynb`: Clasificación binaria de **Type** (Expenses/Income) mediante PLN clásico.
   - `nlp_area_classifier.ipynb`: Clasificación multiclase de **Area** mediante PLN clásico.
-  - `nlp_area_transformers.ipynb`: Clasificación multiclase mediante **Transformers** (BETO, RoBERTa, etc.).
-- `src/`: Código fuente modularizado.
-  - `data/`: Carga y limpieza de datos.
-  - `features/`: Ingeniería de variables.
-  - `models/`: Definición y entrenamiento de modelos.
-  - `evaluation/`: Validación y métricas.
-  - `utils/`: Helpers y utilidades.
+  - `nlp_area_transformers.ipynb`: Clasificación multiclase mediante **Transformers**.
+  - `nlp_evaluation_comparison.ipynb`: Comparativa avanzada de métricas.
+- `src/`: Código fuente modularizado para producción.
+  - `data/preprocessing.py`: Limpieza y normalización multilingüe.
+  - `models/classifier.py`: Clase `FinancialClassifier` con soporte de aprendizaje incremental.
+  - `utils/config.py`: Configuración centralizada de rutas y parámetros.
+  - `production_pipeline.py`: Script principal de orquestación del modelo.
 - `tests/`: Pruebas unitarias y de integración.
 
 ## Instalación
 
 > [!IMPORTANT]
-> Se recomienda utilizar **Python 3.11.13**. El proyecto se ha bajado de versión desde Python 3.13 debido a incompatibilidades críticas de las librerías de Machine Learning (como `torch` y `transformers`) con las versiones más recientes de Python.
+> Se recomienda utilizar **Python 3.11.13**. El proyecto se ha configurado para esta versión debido a la compatibilidad de librerías de ML.
 
 1. Crear un entorno virtual:
    ```bash
-   python -m venv venv
+   python -m venv .venv
    ```
 2. Activar el entorno virtual:
    - Windows: `.venv\Scripts\Activate.ps1`
-   - Linux/Mac: `source venv/bin/activate`
+   - Linux/Mac: `source .venv/bin/activate`
 3. Instalar dependencias:
    ```bash
-   uv pip install -r P2_AP-IA/requirements.txt --link-mode copy
+   pip install -r requirements.txt
    ```
 
-## Cuadernos (PLN Avanzado)
-En el directorio `playground/` se encuentran tres análisis detallados utilizando Procesamiento de Lenguaje Natural:
-1. **Clasificación de Tipo**: Predicción de Gasto vs Ingreso. Todos los modelos clásicos alcanzan el 100% de eficacia.
-2. **Clasificación de Área**: Categorización en 9 áreas (Food, Leisure, Invoice, etc.).
-3. **Transformers**: Fine-tuning de modelos estado del arte en español (BETO, RoBERTa-BNE) para la clasificación de áreas.
+## Modelo en Producción
+Se ha seleccionado un modelo de **Regresión Logística (SGDClassifier)** con **n-gramas de caracteres (2-5)** por los siguientes motivos:
+- **Eficiencia**: Reentrenamiento ultra-rápido (<300ms), ideal para actualizaciones frecuentes (cada 100 entradas).
+- **Multilingüe**: El análisis por caracteres captura raíces comunes entre idiomas sin necesidad de modelos pesados.
+- **Incremental**: Soporta `partial_fit`, permitiendo actualizar el modelo sin reentrenar desde cero.
 
 ## Ejecución
-Para ejecutar el flujo principal del proyecto o los experimentos:
+
+### Entrenar el Modelo de Producción
+Para ejecutar el pipeline modularizado y generar el modelo en `models/`:
 ```bash
-python main.py
-# O para comparar modelos:
-python src/experiments/compare_models.py --plot
+# Entrenamiento con datos por defecto:
+python src/pipeline.py --mode train
+
+# Entrenamiento con una base de datos personalizada:
+python src/pipeline.py --mode train --data ruta/a/tu_base_de_datos.csv
 ```
+
+### Probar/Evaluar el Modelo
+Para evaluar el rendimiento del modelo sobre un conjunto de datos específico:
+```bash
+python src/pipeline.py --mode evaluate --data ruta/a/tu_base_de_datos.csv
+```
+> [!NOTE]
+> Si el CSV indicado en `--data` contiene una columna **Area**, se mostrará el reporte de clasificación completo. De lo contrario, se imprimirán las predicciones obtenidas.
 
 ## Requisitos de Sistema para Transformers
 El notebook de Transformers detecta automáticamente si hay una GPU disponible. En caso de usar CPU, el entrenamiento de todos los modelos puede demorar entre 15 y 30 minutos.

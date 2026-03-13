@@ -49,16 +49,16 @@ Se ha seleccionado un modelo de **Regresión Logística (SGDClassifier)** con **
 Para ejecutar el pipeline modularizado y generar el modelo en `models/`:
 ```bash
 # Entrenamiento con datos por defecto:
-python src/pipeline.py --mode train
+python src/main.py --mode train
 
 # Entrenamiento con una base de datos personalizada:
-python src/pipeline.py --mode train --data ruta/a/tu_base_de_datos.csv
+python src/main.py --mode train --data ruta/a/tu_base_de_datos.csv
 ```
 
 ### Probar/Evaluar el Modelo
 Para evaluar el rendimiento del modelo sobre un conjunto de datos específico:
 ```bash
-python src/pipeline.py --mode evaluate --data ruta/a/tu_base_de_datos.csv
+python src/main.py --mode evaluate --data ruta/a/tu_base_de_datos.csv
 ```
 > [!NOTE]
 > Si el CSV indicado en `--data` contiene una columna **Area**, se mostrará el reporte de clasificación completo. De lo contrario, se imprimirán las predicciones obtenidas.

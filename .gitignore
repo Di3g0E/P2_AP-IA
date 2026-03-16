@@ -47,8 +47,9 @@ logs/
 .idea/
 
 #Documentation
+doc/*
 !doc/*.tex
 !doc/*.pdf
 !doc/*.bib
 !doc/figures/
-doc/
+!doc/sections/

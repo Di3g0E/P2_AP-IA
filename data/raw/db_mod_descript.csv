@@ -1,0 +1,886 @@
+Description,Date,Amount,Area,Type
+Cena y copas en Cinesa con el grupo de amigos,28/02/2026,"10,00€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa,27/02/2026,"629,58€",Salary,Income
+Actividad de ocio durante el viaje a París,25/02/2026,"51,00€","Leisure, Vacations",Expenses
+Entradas de cine y palomitas para ver una película con María,22/02/2026,"2,80€",Leisure,Expenses
+Compra de bebidas y snacks en Eroski,21/02/2026,"24,80€",Food,Expenses
+Cesta de la compra básica en el el mercado central,21/02/2026,"21,60€",Food,Expenses
+Liquidación de recibo de Gas,21/02/2026,"6,50€",Invoice,Expenses
+Ronda de cervezas y refrescos con María en Vips,09/02/2026,"3,90€",Leisure,Expenses
+Ronda de cervezas y refrescos con María en Starbucks,08/02/2026,"8,00€",Leisure,Expenses
+Ronda de cervezas y refrescos con Elena en CuboKing,08/02/2026,"4,50€",Leisure,Expenses
+Operación de compra de activos en letras del tesoro,07/02/2026,"20,00€",Investment,Expenses
+Cargo automático por el servicio de Gimnasio,07/02/2026,"10,00€",Invoice,Expenses
+Pedido de comida a domicilio en Lidl para cenar,06/02/2026,"17,20€",Food,Expenses
+Cargo automático por el servicio de Gimnasio.,06/02/2026,"10,00€",Invoice,Expenses
+Aportación periódica al fondo de inversión letras del tesoro,01/02/2026,"180,00€",Investment,Expenses
+Compra de provisiones para la semana en Lidl,01/02/2026,"29,30€",Food,Expenses
+Pedido de comida a domicilio en Dia para cenar,30/01/2026,"6,97€",Food,Expenses
+Ingreso de nómina del mes correspondiente,29/01/2026,"629,58€",Salary,Income
+Factura de Spotify domiciliada en cuenta,28/01/2026,"32,98€",Invoice,Expenses
+Pago del recibo mensual de Seguro de coche,20/01/2026,"11,66€",Invoice,Expenses
+Pago del recibo mensual de Gas,20/01/2026,"25,00€",Invoice,Expenses
+Ingreso manual en cajero automático,19/01/2026,"200,00€",Deposit,Income
+Aportación periódica al fondo de inversión acciones de Apple,18/01/2026,"20,00€",Investment,Expenses
+Actividad de ocio durante el viaje a Londres,14/01/2026,"429,81€","Leisure, Vacations",Expenses
+Ingreso manual en cajero automático.,09/01/2026,"51,71€",Deposit,Income
+Factura de Netflix domiciliada en cuenta,08/01/2026,"10,00€",Invoice,Expenses
+Cena y copas en Starbucks con el grupo de amigos,06/01/2026,"7,15€",Leisure,Expenses
+Merienda en Vips por la tarde,05/01/2026,"7,05€",Leisure,Expenses
+Inversión mensual en acciones de Apple,01/01/2026,"180,00€",Investment,Expenses
+Merienda en La Tagliatella por la tarde,30/12/2025,"9,70€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Sara,30/12/2025,"18,00€",Leisure,Expenses
+Cena y copas en la bolera con el grupo de amigos,28/12/2025,"5,00€",Leisure,Expenses
+Merienda en el retiro por la tarde,27/12/2025,"9,00€",Leisure,Expenses
+Cobro de salario por servicios profesionales,24/12/2025,"629,58€",Salary,Income
+Entradas de cine y palomitas para ver una película con María.,23/12/2025,"12,50€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Marta,19/12/2025,"12,80€",Leisure,Expenses
+Merienda en CuboKing por la tarde,18/12/2025,"10,50€",Leisure,Expenses
+Gasto en bebidas y snacks para la casa,17/12/2025,"7,00€",Food,Expenses
+Compra de fruta y verdura en la panadería,15/12/2025,"42,80€",Food,Expenses
+Factura de Agua domiciliada en cuenta,14/12/2025,"78,98€",Invoice,Expenses
+Cargo automático por el servicio de Gimnasio - pago procesado,12/12/2025,"15,00€",Invoice,Expenses
+Pago del recibo mensual de Internet,10/12/2025,"24,63€",Invoice,Expenses
+Factura de Netflix domiciliada en cuenta.,9/12/2025,"10,00€",Invoice,Expenses
+Cena y copas en CuboKing con el grupo de amigos,9/12/2025,"20,40€",Leisure,Expenses
+Ingreso de dinero en efectivo realizado por Carlos,5/12/2025,"1,71€",Deposit,Income
+Merienda en la bolera por la tarde,4/12/2025,"3,40€",Leisure,Expenses
+Aportación periódica al fondo de inversión acciones de Apple.,4/12/2025,"20,00€",Investment,Expenses
+Operación de compra de activos en S&P 500,4/12/2025,"180,00€",Investment,Expenses
+Devolución de dinero prestado a Juan,4/12/2025,"50,00€",Deposit,Income
+Cena de vacaciones con Lucía en un restaurante de la playa,30/11/2025,"4,50€","Food, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra,30/11/2025,"46,79€","Invoice, Vacations",Expenses
+Abono de nómina mensual,29/11/2025,"629,58€",Salary,Income
+Actividad de ocio durante el viaje a Valencia,28/11/2025,"3,60€","Leisure, Vacations",Expenses
+Pedido de comida a domicilio en Eroski para cenar,28/11/2025,"18,20€",Food,Expenses
+Factura de Gimnasio domiciliada en cuenta,28/11/2025,"20,00€",Invoice,Expenses
+Merienda en Vips por la tarde.,28/11/2025,"29,80€",Leisure,Expenses
+Liquidación de recibo de Internet,28/11/2025,"85,66€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Sara.,27/11/2025,"3,60€",Leisure,Expenses
+Pago del recibo mensual de Electricidad,27/11/2025,"14,25€",Invoice,Expenses
+Ingreso manual en cajero automático - pago procesado,26/11/2025,"50,00€",Deposit,Income
+Compra de bebidas y snacks en Ahorramas,25/11/2025,"5,00€",Food,Expenses
+Ronda de cervezas y refrescos con Diego en Starbucks,23/11/2025,"50,00€",Leisure,Expenses
+Factura de Internet domiciliada en cuenta,23/11/2025,"1,94€",Invoice,Expenses
+Gasto en fruta y verdura para la casa,19/11/2025,"3,32€",Food,Expenses
+Cena y copas en el retiro con el grupo de amigos,18/11/2025,"25,76€",Leisure,Expenses
+Operación de compra de activos en S&P 500.,12/11/2025,"100,00€",Investment,Expenses
+Cena y copas en La Tagliatella con el grupo de amigos,10/11/2025,"3,24€",Leisure,Expenses
+Pago del recibo mensual de Agua,8/11/2025,"11,00€",Invoice,Expenses
+Ingreso de dinero en efectivo realizado por Diego,6/11/2025,"50,00€",Deposit,Income
+Cargo automático por el servicio de Internet,4/11/2025,"10,00€",Invoice,Expenses
+Aportación periódica al fondo de inversión acciones de Apple - pago procesado,1/11/2025,"50,00€",Investment,Expenses
+Operación de compra de activos en acciones de Apple,1/11/2025,"50,00€",Investment,Expenses
+Factura de Netflix domiciliada en cuenta - pago procesado,31/10/2025,"304,99€",Invoice,Expenses
+Merienda en La Tagliatella por la tarde.,31/10/2025,"8,38€",Leisure,Expenses
+Liquidación de recibo de Internet.,30/10/2025,"0,90€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente.,29/10/2025,"512,05€",Salary,Income
+Compra de productos de limpieza en el mercado central,26/10/2025,"19,00€",Food,Expenses
+Gasto en productos de limpieza para la casa,23/10/2025,"18,50€",Food,Expenses
+Cesta de la compra básica en el Lidl,22/10/2025,"6,75€",Food,Expenses
+Cargo automático por el servicio de Electricidad,18/10/2025,"6,00€",Invoice,Expenses
+Liquidación de recibo de Seguro de coche,17/10/2025,"0,85€",Invoice,Expenses
+Compra de carne y pescado en Carrefour,12/10/2025,"33,86€",Food,Expenses
+Pago del recibo mensual de Agua.,11/10/2025,"16,96€",Invoice,Expenses
+Merienda en Vips por la tarde - pago procesado,6/10/2025,"22,00€",Leisure,Expenses
+Factura de Netflix domiciliada en cuenta correspondiente a hoy,4/10/2025,"10,00€",Invoice,Expenses
+Pedido de comida a domicilio en Ahorramas para cenar,4/10/2025,"8,81€",Food,Expenses
+Cesta de la compra básica en el Eroski,4/10/2025,"2,00€",Food,Expenses
+Liquidación de recibo de Spotify,2/10/2025,"5,00€",Invoice,Expenses
+Cobro de salario por servicios profesionales.,1/10/2025,"881,44€",Salary,Income
+Compra de plan de pensiones para diversificar cartera,1/10/2025,"20,00€",Investment,Expenses
+Ingreso de dinero en efectivo realizado por Pedro,28/09/2025,"50,00€",Deposit,Income
+Pedido de comida a domicilio en Lidl para cenar.,23/09/2025,"13,88€",Food,Expenses
+Merienda en el bar de la esquina por la tarde,21/09/2025,"4,00€",Leisure,Expenses
+Cesta de la compra básica en el Ahorramas,18/09/2025,"3,00€",Food,Expenses
+Ingreso manual en cajero automático correspondiente a hoy,13/09/2025,"50,00€",Deposit,Income
+Cesta de la compra básica en el el mercado central.,13/09/2025,"27,50€",Food,Expenses
+Cesta de la compra básica en el Carrefour,13/09/2025,"8,00€",Food,Expenses
+Gasto en la cena de hoy para la casa,11/09/2025,"3,00€",Food,Expenses
+Gasto en fruta y verdura para la casa.,11/09/2025,"2,60€",Food,Expenses
+Factura de Gimnasio domiciliada en cuenta.,06/09/2025,"14,95€",Invoice,Expenses
+Pedido de comida a domicilio en Lidl para cenar - pago procesado,06/09/2025,"13,00€",Food,Expenses
+Cesta de la compra básica en el Ahorramas.,04/09/2025,"23,10€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Dani,04/09/2025,"12,50€",Leisure,Expenses
+Cesta de la compra básica en el la panadería,04/09/2025,"3,00€",Food,Expenses
+Liquidación de recibo de Seguro de coche.,03/09/2025,"15,10€",Invoice,Expenses
+Factura de Seguro de coche domiciliada en cuenta,03/09/2025,"10,00€",Invoice,Expenses
+Operación de compra de activos en plan de pensiones,01/09/2025,"40,00€",Investment,Expenses
+Merienda en el bar de la esquina por la tarde.,29/08/2025,"3,94€",Leisure,Expenses
+Ingreso de dinero en efectivo realizado por Lucía,22/08/2025,"5,00€",Deposit,Income
+Actividad de ocio durante el viaje a la sierra,19/08/2025,"679,32€","Leisure, Vacations",Expenses
+Devolución de dinero prestado a Pedro,18/08/2025,"100,00€",Deposit,Income
+Ronda de cervezas y refrescos con Marta en Vips,10/08/2025,"56,60€",Leisure,Expenses
+Ingreso de nómina del mes correspondiente - pago procesado,01/08/2025,"1.841,97€",Salary,Income
+Operación de compra de activos en Bitcoin,01/08/2025,"20,00€",Investment,Expenses
+Pago del recibo mensual de Gas.,01/08/2025,"18,23€",Invoice,Expenses
+Cesta de la compra básica en el Dia,29/07/2025,"39,12€",Food,Expenses
+Ronda de cervezas y refrescos con Juan en el bar de la esquina,29/07/2025,"7,00€",Leisure,Expenses
+Cesta de la compra básica en el Ahorramas - pago procesado,16/07/2025,"3,30€",Food,Expenses
+Compra de la cena de hoy en Dia,15/07/2025,"19,50€",Food,Expenses
+Cargo automático por el servicio de Gimnasio correspondiente a hoy,14/07/2025,"8,08€",Invoice,Expenses
+Cena y copas en CuboKing con el grupo de amigos.,10/07/2025,"5,00€",Leisure,Expenses
+Ingreso de nómina del mes correspondiente correspondiente a hoy,03/07/2025,"613,99€",Salary,Income
+Entradas de cine y palomitas para ver una película con Dani.,02/07/2025,"19,00€",Leisure,Expenses
+Operación de compra de activos en Indexa Capital,01/07/2025,"40,00€",Investment,Expenses
+Actividad de ocio durante el viaje a la playa,29/06/2025,"395,00€","Leisure, Vacations",Expenses
+Factura de Netflix domiciliada en cuenta registrado correctamente,26/06/2025,"22,00€",Invoice,Expenses
+Gasto en provisiones para la semana para la casa,26/06/2025,"5,75€",Food,Expenses
+Merienda en La Tagliatella por la tarde - pago procesado,21/06/2025,"59,77€",Leisure,Expenses
+Compra de la cena de hoy en Ahorramas,21/06/2025,"44,60€",Food,Expenses
+Cargo automático por el servicio de Seguro de coche,21/06/2025,"23,00€",Invoice,Expenses
+Liquidación de recibo de Netflix,21/06/2025,"7,50€",Invoice,Expenses
+Liquidación de recibo de Gas.,20/06/2025,"11,50€",Invoice,Expenses
+Pago del recibo mensual de Electricidad.,20/06/2025,"2,00€",Invoice,Expenses
+Compra de bebidas y snacks en la panadería,14/06/2025,"13,25€",Food,Expenses
+Actividad de ocio durante el viaje a Valencia.,13/06/2025,"395,00€","Leisure, Vacations",Expenses
+Ingreso de nómina del mes correspondiente registrado correctamente,11/06/2025,"25,00€",Salary,Income
+Factura de Agua domiciliada en cuenta.,09/06/2025,"4,74€",Invoice,Expenses
+Transferencia de sueldo recibida de la empresa.,08/06/2025,"75,00€",Salary,Income
+Merienda en CuboKing por la tarde.,07/06/2025,"8,50€",Leisure,Expenses
+Ronda de cervezas y refrescos con Dani en la bolera,07/06/2025,"5,88€",Leisure,Expenses
+Compra de la cena de hoy en Carrefour,05/06/2025,"12,90€",Food,Expenses
+Pago del recibo mensual de Internet.,05/06/2025,"8,00€",Invoice,Expenses
+Inversión mensual en acciones de Apple.,01/06/2025,"20,00€",Investment,Expenses
+Pago del recibo mensual de Agua - pago procesado,01/06/2025,"7,20€",Invoice,Expenses
+Cena y copas en la bolera con el grupo de amigos.,31/05/2025,"3,10€",Leisure,Expenses
+Cobro de salario por servicios profesionales - pago procesado,30/05/2025,"30,00€",Salary,Income
+Merienda en La Tagliatella por la tarde correspondiente a hoy,30/05/2025,"18,00€",Leisure,Expenses
+Gasto en fruta y verdura para la casa - pago procesado,29/05/2025,"12,00€",Food,Expenses
+Liquidación de recibo de Internet - pago procesado,28/05/2025,"9,50€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con María - pago procesado,24/05/2025,"15,00€",Leisure,Expenses
+Cobro de salario por servicios profesionales correspondiente a hoy,18/05/2025,"25,00€",Salary,Income
+Gasto en productos de limpieza para la casa.,16/05/2025,"13,00€",Food,Expenses
+Factura de Gas domiciliada en cuenta,13/05/2025,"1,09€",Invoice,Expenses
+Cargo automático por el servicio de Electricidad.,04/05/2025,"5,50€",Invoice,Expenses
+Compra de productos de limpieza en Dia,02/05/2025,"21,95€",Food,Expenses
+Cargo automático por el servicio de Netflix,02/05/2025,"8,00€",Invoice,Expenses
+Compra de la cena de hoy en Lidl,02/05/2025,"4,29€",Food,Expenses
+Cena y copas en La Tagliatella con el grupo de amigos.,02/05/2025,"3,70€",Leisure,Expenses
+Gasto en la cena de hoy para la casa.,02/05/2025,"2,75€",Food,Expenses
+Inversión mensual en plan de pensiones,01/05/2025,"40,00€",Investment,Expenses
+Cargo automático por el servicio de Seguro de coche.,26/04/2025,"72,73€",Invoice,Expenses
+Liquidación de recibo de Gas - pago procesado,22/04/2025,"7,50€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente del periodo actual,22/04/2025,"7,00€",Salary,Income
+Cargo automático por el servicio de Internet.,19/04/2025,"10,00€",Invoice,Expenses
+Liquidación de recibo de Gas correspondiente a hoy,19/04/2025,"5,00€",Invoice,Expenses
+Ronda de cervezas y refrescos con Lucía en el bar de la esquina,16/04/2025,"2,56€",Leisure,Expenses
+Gasto en provisiones para la semana para la casa.,12/04/2025,"40,00€",Food,Expenses
+Merienda en Starbucks por la tarde,07/04/2025,"3,50€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa - pago procesado,06/04/2025,"25,00€",Salary,Income
+Factura de Seguro de coche domiciliada en cuenta.,03/04/2025,"1,00€",Invoice,Expenses
+Ingreso manual en cajero automático registrado correctamente,01/04/2025,"50,00€",Deposit,Income
+Inversión mensual en S&P 500,01/04/2025,"20,00€",Investment,Expenses
+Factura de Agua domiciliada en cuenta - pago procesado,30/03/2025,"11,70€",Invoice,Expenses
+Factura de Seguro de coche domiciliada en cuenta - pago procesado,29/03/2025,"0,42€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Pedro,21/03/2025,"26,10€",Leisure,Expenses
+Cena y copas en la bolera con el grupo de amigos - pago procesado,20/03/2025,"17,50€",Leisure,Expenses
+Cobro de salario por servicios profesionales registrado correctamente,08/03/2025,"25,00€",Salary,Income
+Merienda en La Tagliatella por la tarde registrado correctamente,07/03/2025,"21,17€",Leisure,Expenses
+Devolución de dinero prestado a Elena,02/03/2025,"50,00€",Deposit,Income
+Operación de compra de activos en Bitcoin.,01/03/2025,"40,00€",Investment,Expenses
+Ingreso manual en cajero automático del periodo actual,28/02/2025,"4,15€",Deposit,Income
+Ingreso manual en cajero automático (verificado),25/02/2025,"16,61€",Deposit,Income
+Ingreso de nómina del mes correspondiente (verificado),22/02/2025,"25,00€",Salary,Income
+Compra de provisiones para la semana en el mercado central,21/02/2025,"6,75€",Food,Expenses
+Gasto en carne y pescado para la casa,14/02/2025,"64,60€",Food,Expenses
+Pago del recibo mensual de Spotify,14/02/2025,"6,10€",Invoice,Expenses
+Merienda en CuboKing por la tarde - pago procesado,13/02/2025,"7,50€",Leisure,Expenses
+Ronda de cervezas y refrescos con Sara en Vips,13/02/2025,"4,10€",Leisure,Expenses
+Liquidación de recibo de Internet correspondiente a hoy,11/02/2025,"10,00€",Invoice,Expenses
+Liquidación de recibo de Netflix.,05/02/2025,"3,37€",Invoice,Expenses
+Cobro de salario por servicios profesionales del periodo actual,02/02/2025,"25,00€",Salary,Income
+Entradas de cine y palomitas para ver una película con Carlos,02/02/2025,"4,00€",Leisure,Expenses
+Operación de compra de activos en S&P 500 - pago procesado,01/02/2025,"20,00€",Investment,Expenses
+Cargo automático por el servicio de Electricidad - pago procesado,01/02/2025,"3,50€",Invoice,Expenses
+Compra de provisiones para la semana en Mercadona,27/01/2025,"19,24€",Food,Expenses
+Merienda en el bar de la esquina por la tarde - pago procesado,26/01/2025,"4,00€",Leisure,Expenses
+Pago del recibo mensual de Spotify.,21/01/2025,"0,55€",Invoice,Expenses
+Cena y copas en el bar de la esquina con el grupo de amigos,17/01/2025,"12,00€",Leisure,Expenses
+Compra de fruta y verdura en la panadería.,17/01/2025,"11,43€",Food,Expenses
+Pago del recibo mensual de Spotify - pago procesado,15/01/2025,"8,50€",Invoice,Expenses
+Cena y copas en el bar de la esquina con el grupo de amigos.,11/01/2025,"33,00€",Leisure,Expenses
+Abono de nómina mensual.,11/01/2025,"27,00€",Salary,Income
+Transferencia recibida de María por Bizum,02/01/2025,"50,00€",Deposit,Income
+Compra de Bitcoin para diversificar cartera,01/01/2025,"20,00€",Investment,Expenses
+Entradas de cine y palomitas para ver una película con Elena,31/12/2024,"10,00€",Leisure,Expenses
+Pedido de comida a domicilio en Eroski para cenar.,31/12/2024,"3,70€",Food,Expenses
+Ronda de cervezas y refrescos con Santi en Starbucks,30/12/2024,"21,74€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Sara - pago procesado,23/12/2024,"8,34€",Leisure,Expenses
+Gasto en fruta y verdura para la casa correspondiente a hoy,23/12/2024,"3,60€",Food,Expenses
+Compra de fruta y verdura en Lidl,22/12/2024,"26,10€",Food,Expenses
+Factura de Agua domiciliada en cuenta correspondiente a hoy,21/12/2024,"78,92€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente de este mes,15/12/2024,"25,00€",Salary,Income
+Pago del recibo mensual de Agua correspondiente a hoy,15/12/2024,"1,69€",Invoice,Expenses
+Compra de productos de limpieza en Ahorramas,13/12/2024,"11,95€",Food,Expenses
+Transferencia recibida de Dani por Bizum,10/12/2024,"400,00€",Deposit,Income
+Transferencia recibida de Santi por Bizum,10/12/2024,"50,00€",Deposit,Income
+Cena y copas en Starbucks con el grupo de amigos.,8/12/2024,"9,40€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Diego,5/12/2024,"8,00€",Leisure,Expenses
+Gasto en la cena de hoy para la casa - pago procesado,3/12/2024,"6,75€",Food,Expenses
+Cena y copas en Cinesa con el grupo de amigos.,2/12/2024,"3,10€",Leisure,Expenses
+Compra de Indexa Capital para diversificar cartera,1/12/2024,"20,00€",Investment,Expenses
+Merienda en CuboKing por la tarde correspondiente a hoy,1/12/2024,"12,00€",Leisure,Expenses
+Liquidación de recibo de Spotify.,30/11/2024,"1,10€",Invoice,Expenses
+Cesta de la compra básica en el la panadería.,22/11/2024,"5,20€",Food,Expenses
+Cesta de la compra básica en el Mercadona,11/11/2024,"6,75€",Food,Expenses
+Cesta de la compra básica en el Ahorramas correspondiente a hoy,9/11/2024,"18,10€",Food,Expenses
+Cesta de la compra básica en el la panadería - pago procesado,8/11/2024,"13,90€",Food,Expenses
+Cargo automático por el servicio de Gas,5/11/2024,"4,90€",Invoice,Expenses
+Devolución de dinero prestado a Elena.,2/11/2024,"400,00€",Deposit,Income
+Aportación periódica al fondo de inversión Bitcoin,1/11/2024,"20,00€",Investment,Expenses
+Compra de carne y pescado en Dia,31/10/2024,"19,05€",Food,Expenses
+Abono de nómina mensual - pago procesado,27/10/2024,"25,00€",Salary,Income
+Entradas de cine y palomitas para ver una película con María correspondiente a hoy,25/10/2024,"13,00€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa correspondiente a hoy,19/10/2024,"25,00€",Salary,Income
+Cesta de la compra básica en el Mercadona.,19/10/2024,"19,35€",Food,Expenses
+Compra de provisiones para la semana en Carrefour,19/10/2024,"5,00€",Food,Expenses
+Factura de Internet domiciliada en cuenta.,13/10/2024,"16,00€",Invoice,Expenses
+Merienda en el bar de la esquina por la tarde correspondiente a hoy,11/10/2024,"1,00€",Leisure,Expenses
+Gasto en provisiones para la semana para la casa - pago procesado,8/10/2024,"16,80€",Food,Expenses
+Cena y copas en el retiro con el grupo de amigos.,8/10/2024,"14,40€",Leisure,Expenses
+Liquidación de recibo de Seguro de coche - pago procesado,6/10/2024,"8,00€",Invoice,Expenses
+Transferencia recibida de Sara por Bizum,1/10/2024,"50,00€",Deposit,Income
+Aportación periódica al fondo de inversión plan de pensiones,1/10/2024,"20,00€",Investment,Expenses
+Cobro de salario por servicios profesionales (verificado),28/09/2024,"30,00€",Salary,Income
+Ronda de cervezas y refrescos con Diego en CuboKing,26/09/2024,"18,00€",Leisure,Expenses
+Liquidación de recibo de Spotify - pago procesado,23/09/2024,"6,00€",Invoice,Expenses
+Abono de nómina mensual correspondiente a hoy,16/09/2024,"25,00€",Salary,Income
+Liquidación de recibo de Electricidad,13/09/2024,"12,00€",Invoice,Expenses
+Ronda de cervezas y refrescos con María en el bar de la esquina,07/09/2024,"203,58€",Leisure,Expenses
+Pago del recibo mensual de Electricidad - pago procesado,07/09/2024,"8,00€",Invoice,Expenses
+Pago del recibo mensual de Internet - pago procesado,07/09/2024,"2,00€",Invoice,Expenses
+Actividad de ocio durante el viaje a Valencia - pago procesado,05/09/2024,"395,80€","Leisure, Vacations",Expenses
+Actividad de ocio durante el viaje a el hotel Ritz,05/09/2024,"19,50€","Leisure, Vacations",Expenses
+Ingreso manual en cajero automático de este mes,02/09/2024,"150,00€",Deposit,Income
+Operación de compra de activos en letras del tesoro.,02/09/2024,"20,00€",Investment,Expenses
+Compra de fruta y verdura en Lidl.,29/08/2024,"13,90€",Food,Expenses
+Liquidación de recibo de Gas registrado correctamente,27/08/2024,"9,27€",Invoice,Expenses
+Liquidación de recibo de Netflix - pago procesado,26/08/2024,"4,49€",Invoice,Expenses
+Pago del recibo mensual de Gimnasio,23/08/2024,"9,95€",Invoice,Expenses
+Cobro de salario por servicios profesionales de este mes,15/08/2024,"845,69€",Salary,Income
+Compra de acciones de Apple para diversificar cartera,14/08/2024,"40,00€",Investment,Expenses
+Cargo automático por el servicio de Netflix.,14/08/2024,"3,95€",Invoice,Expenses
+Merienda en la bolera por la tarde.,12/08/2024,"46,00€",Leisure,Expenses
+Cargo automático por el servicio de Seguro de coche - pago procesado,11/08/2024,"1,05€",Invoice,Expenses
+Cargo automático por el servicio de Agua,07/08/2024,"4,00€",Invoice,Expenses
+Merienda en La Tagliatella por la tarde del periodo actual,02/08/2024,"8,50€",Leisure,Expenses
+Cesta de la compra básica en el Carrefour.,01/08/2024,"20,00€",Food,Expenses
+Cobro de salario por servicios profesionales mediante tarjeta,31/07/2024,"1.842,17€",Salary,Income
+Transferencia de sueldo recibida de la empresa registrado correctamente,31/07/2024,"837,84€",Salary,Income
+Cesta de la compra básica en el Eroski.,30/07/2024,"16,46€",Food,Expenses
+Liquidación de recibo de Seguro de coche correspondiente a hoy,30/07/2024,"5,00€",Invoice,Expenses
+Cesta de la compra básica en el el mercado central - pago procesado,19/07/2024,"5,50€",Food,Expenses
+Pedido de comida a domicilio en el mercado central para cenar,16/07/2024,"15,00€",Food,Expenses
+Cesta de la compra básica en el Eroski - pago procesado,13/07/2024,"41,50€",Food,Expenses
+Cargo automático por el servicio de Agua.,05/07/2024,"795,00€",Invoice,Expenses
+Aportación periódica al fondo de inversión letras del tesoro.,01/07/2024,"20,00€",Investment,Expenses
+Pedido de comida a domicilio en Dia para cenar.,28/06/2024,"5,50€",Food,Expenses
+Factura de Internet domiciliada en cuenta - pago procesado,25/06/2024,"7,50€",Invoice,Expenses
+Pedido de comida a domicilio en la panadería para cenar,22/06/2024,"26,22€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Lucía,22/06/2024,"9,50€",Leisure,Expenses
+Factura de Agua domiciliada en cuenta registrado correctamente,18/06/2024,"8,20€",Invoice,Expenses
+Factura de Seguro de coche domiciliada en cuenta correspondiente a hoy,14/06/2024,"40,00€",Invoice,Expenses
+Liquidación de recibo de Seguro de coche registrado correctamente,14/06/2024,"11,00€",Invoice,Expenses
+Cobro de salario por servicios profesionales..,07/06/2024,"25,00€",Salary,Income
+Pedido de comida a domicilio en Dia para cenar - pago procesado,06/06/2024,"14,90€",Food,Expenses
+Cesta de la compra básica en el Eroski correspondiente a hoy,06/06/2024,"8,00€",Food,Expenses
+Pedido de comida a domicilio en Carrefour para cenar,06/06/2024,"6,00€",Food,Expenses
+Ingreso de dinero en efectivo realizado por Santi,05/06/2024,"50,00€",Deposit,Income
+Cesta de la compra básica en el la panadería correspondiente a hoy,02/06/2024,"12,90€",Food,Expenses
+Aportación periódica al fondo de inversión S&P 500,01/06/2024,"20,00€",Investment,Expenses
+Cargo automático por el servicio de Electricidad correspondiente a hoy,31/05/2024,"2,85€",Invoice,Expenses
+Cesta de la compra básica en el Ahorramas registrado correctamente,26/05/2024,"16,00€",Food,Expenses
+Gasto en productos de limpieza para la casa - pago procesado,25/05/2024,"11,00€",Food,Expenses
+Compra de fruta y verdura en Lidl - pago procesado,24/05/2024,"6,75€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Sara correspondiente a hoy,17/05/2024,"42,00€",Leisure,Expenses
+Cargo automático por el servicio de Netflix - pago procesado,17/05/2024,"8,00€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Elena.,11/05/2024,"7,42€",Leisure,Expenses
+Factura de Electricidad domiciliada en cuenta,11/05/2024,"3,29€",Invoice,Expenses
+Transferencia recibida de Dani por Bizum.,03/05/2024,"50,00€",Deposit,Income
+Compra de S&P 500 para diversificar cartera,01/05/2024,"40,00€",Investment,Expenses
+Factura de Internet domiciliada en cuenta correspondiente a hoy,27/04/2024,"30,00€",Invoice,Expenses
+Ronda de cervezas y refrescos con Pedro en el bar de la esquina,21/04/2024,"6,40€",Leisure,Expenses
+Ingreso de nómina del mes correspondiente mediante tarjeta,20/04/2024,"30,00€",Salary,Income
+Pedido de comida a domicilio en Dia para cenar correspondiente a hoy,17/04/2024,"11,55€",Food,Expenses
+Liquidación de recibo de Gas del periodo actual,17/04/2024,"8,00€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente..,14/04/2024,"21,80€",Salary,Income
+Pedido de comida a domicilio en Dia para cenar registrado correctamente,10/04/2024,"2,50€",Food,Expenses
+Liquidación de recibo de Gas (verificado),08/04/2024,"14,99€",Invoice,Expenses
+Ingreso de dinero en efectivo realizado por Sara,05/04/2024,"50,00€",Deposit,Income
+Inversión mensual en Bitcoin,01/04/2024,"20,00€",Investment,Expenses
+Actividad de ocio durante el viaje a Londres.,29/03/2024,"166,45€","Leisure, Vacations",Expenses
+Liquidación de recibo de Gimnasio,29/03/2024,"5,50€",Invoice,Expenses
+Merienda en la bolera por la tarde - pago procesado,24/03/2024,"24,00€",Leisure,Expenses
+Cargo automático por el servicio de Internet - pago procesado,21/03/2024,"39,69€",Invoice,Expenses
+Liquidación de recibo de Spotify correspondiente a hoy,21/03/2024,"1,00€",Invoice,Expenses
+Cargo automático por el servicio de Agua - pago procesado,18/03/2024,"8,00€",Invoice,Expenses
+Compra de fruta y verdura en Dia,16/03/2024,"20,47€",Food,Expenses
+Pedido de comida a domicilio en el mercado central para cenar.,11/03/2024,"19,85€",Food,Expenses
+Ingreso de nómina del mes correspondiente...,09/03/2024,"50,00€",Salary,Income
+Cobro de salario por servicios profesionales...,03/03/2024,"25,00€",Salary,Income
+Transferencia recibida de Dani por Bizum - pago procesado,01/03/2024,"50,00€",Deposit,Income
+Aportación periódica al fondo de inversión plan de pensiones.,01/03/2024,"20,00€",Investment,Expenses
+Cesta de la compra básica en el Carrefour - pago procesado,24/02/2024,"18,10€",Food,Expenses
+Ingreso de dinero en efectivo realizado por Lucía.,18/02/2024,"70,00€",Deposit,Income
+Gasto en la cena de hoy para la casa correspondiente a hoy,17/02/2024,"38,20€",Food,Expenses
+Cesta de la compra básica en el Lidl.,14/02/2024,"21,00€",Food,Expenses
+Liquidación de recibo de Internet registrado correctamente,14/02/2024,"20,00€",Invoice,Expenses
+Factura de Gimnasio domiciliada en cuenta - pago procesado,14/02/2024,"8,32€",Invoice,Expenses
+Liquidación de recibo de Gas de este mes,14/02/2024,"8,00€",Invoice,Expenses
+Gasto en carne y pescado para la casa.,12/02/2024,"2,60€",Food,Expenses
+Compra de productos de limpieza en Lidl,10/02/2024,"19,40€",Food,Expenses
+Pago del recibo mensual de Electricidad correspondiente a hoy,10/02/2024,"1,80€",Invoice,Expenses
+Transferencia recibida de Diego por Bizum,05/02/2024,"50,00€",Deposit,Income
+Gasto en la cena de hoy para la casa registrado correctamente,05/02/2024,"10,10€",Food,Expenses
+Compra de provisiones para la semana en la panadería,05/02/2024,"4,65€",Food,Expenses
+Factura de Spotify domiciliada en cuenta.,04/02/2024,"6,00€",Invoice,Expenses
+Compra de fruta y verdura en Mercadona,04/02/2024,"5,12€",Food,Expenses
+Compra de productos de limpieza en el mercado central.,03/02/2024,"14,60€",Food,Expenses
+Aportación periódica al fondo de inversión S&P 500.,01/02/2024,"20,00€",Investment,Expenses
+Factura de Electricidad domiciliada en cuenta.,23/01/2024,"7,95€",Invoice,Expenses
+Pago del recibo mensual de Gas - pago procesado,22/01/2024,"14,50€",Invoice,Expenses
+Liquidación de recibo de Seguro de coche del periodo actual,22/01/2024,"7,00€",Invoice,Expenses
+Factura de Agua domiciliada en cuenta del periodo actual,19/01/2024,"9,00€",Invoice,Expenses
+Transferencia recibida de María por Bizum.,13/01/2024,"50,00€",Deposit,Income
+Pago del recibo mensual de Gimnasio.,12/01/2024,"6,20€",Invoice,Expenses
+Ingreso de dinero en efectivo realizado por Sara.,08/01/2024,"100,00€",Deposit,Income
+Factura de Gas domiciliada en cuenta.,03/01/2024,"46,80€",Invoice,Expenses
+Merienda en Goiko por la tarde,02/01/2024,"3,00€",Leisure,Expenses
+Operación de compra de activos en Bitcoin - pago procesado,01/01/2024,"20,00€",Investment,Expenses
+Ingreso de dinero en efectivo realizado por Juan,25/12/2023,"50,00€",Deposit,Income
+Liquidación de recibo de Internet del periodo actual,24/12/2023,"48,84€",Invoice,Expenses
+Pedido de comida a domicilio en Mercadona para cenar,24/12/2023,"12,95€",Food,Expenses
+Factura de Internet domiciliada en cuenta registrado correctamente,24/12/2023,"12,50€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente....,24/12/2023,"10,00€",Salary,Income
+Pedido de comida a domicilio en Dia para cenar del periodo actual,23/12/2023,"3,40€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Elena - pago procesado,21/12/2023,"25,00€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa del periodo actual,16/12/2023,"25,00€",Salary,Income
+Transferencia recibida de Carlos por Bizum,15/12/2023,"50,00€",Deposit,Income
+Cesta de la compra básica en el Eroski registrado correctamente,15/12/2023,"17,30€",Food,Expenses
+Pedido de comida a domicilio en Lidl para cenar correspondiente a hoy,15/12/2023,"6,20€",Food,Expenses
+Gasto en productos de limpieza para la casa correspondiente a hoy,14/12/2023,"2,49€",Food,Expenses
+Gasto en carne y pescado para la casa - pago procesado,7/12/2023,"4,11€",Food,Expenses
+Merienda en Cinesa por la tarde,3/12/2023,"25,00€",Leisure,Expenses
+Factura de Electricidad domiciliada en cuenta - pago procesado,3/12/2023,"9,15€",Invoice,Expenses
+Factura de Gas domiciliada en cuenta - pago procesado,2/12/2023,"5,00€",Invoice,Expenses
+Compra de letras del tesoro para diversificar cartera,1/12/2023,"20,00€",Investment,Expenses
+Merienda en CuboKing por la tarde registrado correctamente,28/11/2023,"18,00€",Leisure,Expenses
+Ingreso de nómina del mes correspondiente.....,26/11/2023,"25,00€",Salary,Income
+Compra de carne y pescado en Dia.,26/11/2023,"1,60€",Food,Expenses
+Cargo automático por el servicio de Gas.,25/11/2023,"11,01€",Invoice,Expenses
+Pedido de comida a domicilio en la panadería para cenar.,25/11/2023,"7,00€",Food,Expenses
+Compra de fruta y verdura en Lidl correspondiente a hoy,20/11/2023,"6,30€",Food,Expenses
+Merienda en el bar de la esquina por la tarde registrado correctamente,17/11/2023,"8,40€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Sara registrado correctamente,16/11/2023,"11,00€",Leisure,Expenses
+Pago del recibo mensual de Gas correspondiente a hoy,14/11/2023,"6,40€",Invoice,Expenses
+Transferencia de sueldo recibida de la empresa (verificado),11/11/2023,"40,00€",Salary,Income
+Gasto en la cena de hoy para la casa del periodo actual,11/11/2023,"20,00€",Food,Expenses
+Factura de Gas domiciliada en cuenta correspondiente a hoy,2/11/2023,"2,10€",Invoice,Expenses
+Operación de compra de activos en S&P 500 correspondiente a hoy,1/11/2023,"20,00€",Investment,Expenses
+Cesta de la compra básica en el Mercadona - pago procesado,29/10/2023,"6,00€",Food,Expenses
+Pago del recibo mensual de Agua registrado correctamente,28/10/2023,"3,00€",Invoice,Expenses
+Cesta de la compra básica en el Eroski del periodo actual,27/10/2023,"5,02€",Food,Expenses
+Abono de nómina mensual registrado correctamente,21/10/2023,"25,00€",Salary,Income
+Transferencia recibida de Elena por Bizum,14/10/2023,"40,00€",Deposit,Income
+Merienda en Starbucks por la tarde.,12/10/2023,"21,60€",Leisure,Expenses
+Cena y copas en Starbucks con el grupo de amigos - pago procesado,12/10/2023,"14,00€",Leisure,Expenses
+Cesta de la compra básica en el el mercado central correspondiente a hoy,12/10/2023,"14,00€",Food,Expenses
+Cena y copas en Cinesa con el grupo de amigos - pago procesado,12/10/2023,"6,95€",Leisure,Expenses
+Pago del recibo mensual de Gas registrado correctamente,12/10/2023,"3,40€",Invoice,Expenses
+Factura de Seguro de coche domiciliada en cuenta registrado correctamente,9/10/2023,"70,00€",Invoice,Expenses
+Cena y copas en Starbucks con el grupo de amigos correspondiente a hoy,2/10/2023,"7,00€",Leisure,Expenses
+Ingreso de nómina del mes correspondiente......,1/10/2023,"25,00€",Salary,Income
+Compra de letras del tesoro para diversificar cartera.,1/10/2023,"20,00€",Investment,Expenses
+Ronda de cervezas y refrescos con Sara en Starbucks,1/10/2023,"4,00€",Leisure,Expenses
+Merienda en el retiro por la tarde.,1/10/2023,"4,00€",Leisure,Expenses
+Compra de bebidas y snacks en Dia,29/09/2023,"20,00€",Food,Expenses
+Abono de nómina mensual del periodo actual,23/09/2023,"25,00€",Salary,Income
+Ingreso de dinero en efectivo realizado por Pedro.,20/09/2023,"50,00€",Deposit,Income
+Ronda de cervezas y refrescos con Juan en CuboKing,17/09/2023,"2,50€",Leisure,Expenses
+Cena y copas en Vips con el grupo de amigos,16/09/2023,"9,80€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Elena correspondiente a hoy,08/09/2023,"2,70€",Leisure,Expenses
+Gasto en provisiones para la semana para la casa correspondiente a hoy,05/09/2023,"7,00€",Food,Expenses
+Merienda en la bolera por la tarde correspondiente a hoy,04/09/2023,"3,50€",Leisure,Expenses
+Operación de compra de activos en Bitcoin correspondiente a hoy,01/09/2023,"20,00€",Investment,Expenses
+Merienda en La Tagliatella por la tarde (verificado),31/08/2023,"38,43€",Leisure,Expenses
+Gasto en productos de limpieza para la casa registrado correctamente,31/08/2023,"26,15€",Food,Expenses
+Transferencia recibida de Carlos por Bizum.,31/08/2023,"25,00€",Deposit,Income
+Pedido de comida a domicilio en el mercado central para cenar - pago procesado,29/08/2023,"20,00€",Food,Expenses
+Ronda de cervezas y refrescos con Diego en Goiko,28/08/2023,"13,80€",Leisure,Expenses
+Devolución de dinero prestado a Ana,24/08/2023,"10,00€",Deposit,Income
+Transferencia de sueldo recibida de la empresa de este mes,18/08/2023,"759,41€",Salary,Income
+Compra de S&P 500 para diversificar cartera.,17/08/2023,"20,00€",Investment,Expenses
+Factura de Internet domiciliada en cuenta del periodo actual,16/08/2023,"6,40€",Invoice,Expenses
+Gasto en carne y pescado para la casa correspondiente a hoy,14/08/2023,"13,80€",Food,Expenses
+Ingreso de nómina del mes correspondiente.......,01/08/2023,"792,10€",Salary,Income
+Cargo automático por el servicio de Seguro de coche correspondiente a hoy,01/08/2023,"8,00€",Invoice,Expenses
+Merienda en el bar de la esquina por la tarde del periodo actual,30/07/2023,"10,50€",Leisure,Expenses
+Gasto en fruta y verdura para la casa registrado correctamente,18/07/2023,"9,50€",Food,Expenses
+Pedido de comida a domicilio en Eroski para cenar - pago procesado,17/07/2023,"15,00€",Food,Expenses
+Cena de vacaciones con Dani en un restaurante de la playa,14/07/2023,"7,80€","Food, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la playa,14/07/2023,"2,40€","Invoice, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra.,13/07/2023,"10,00€","Invoice, Vacations",Expenses
+Cena de vacaciones con Carlos en un restaurante de Ibiza,13/07/2023,"6,00€","Food, Vacations",Expenses
+Cena de vacaciones con Marta en un restaurante de Valencia,13/07/2023,"5,20€","Food, Vacations",Expenses
+Actividad de ocio durante el viaje a Londres - pago procesado,13/07/2023,"2,00€","Leisure, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra - pago procesado,13/07/2023,"1,50€","Invoice, Vacations",Expenses
+Actividad de ocio durante el viaje a la playa.,12/07/2023,"1,20€","Leisure, Vacations",Expenses
+Aportación periódica al fondo de inversión Bitcoin.,01/07/2023,"20,00€",Investment,Expenses
+Liquidación de recibo de Seguro de coche (verificado),29/06/2023,"6,40€",Invoice,Expenses
+Ingreso de dinero en efectivo realizado por Dani,28/06/2023,"20,00€",Deposit,Income
+Gasto en carne y pescado para la casa registrado correctamente,28/06/2023,"16,75€",Food,Expenses
+Cargo automático por el servicio de Electricidad registrado correctamente,28/06/2023,"2,25€",Invoice,Expenses
+Ronda de cervezas y refrescos con Santi en La Tagliatella,26/06/2023,"3,50€",Leisure,Expenses
+Cargo automático por el servicio de Spotify,23/06/2023,"15,00€",Invoice,Expenses
+Pago del recibo mensual de Netflix,18/06/2023,"47,25€",Invoice,Expenses
+Cargo automático por el servicio de Gas - pago procesado,18/06/2023,"2,40€",Invoice,Expenses
+Pago del recibo mensual de Netflix.,17/06/2023,"16,35€",Invoice,Expenses
+Pago del recibo mensual de Gas del periodo actual,17/06/2023,"0,65€",Invoice,Expenses
+Ingreso manual en cajero automático mediante tarjeta,16/06/2023,"100,00€",Deposit,Income
+Cobro de salario por servicios profesionales....,16/06/2023,"80,00€",Salary,Income
+Gasto en bebidas y snacks para la casa.,16/06/2023,"13,00€",Food,Expenses
+Ronda de cervezas y refrescos con Marta en la bolera,09/06/2023,"17,63€",Leisure,Expenses
+Compra de fruta y verdura en el mercado central,08/06/2023,"11,40€",Food,Expenses
+Merienda en Starbucks por la tarde - pago procesado,06/06/2023,"15,83€",Leisure,Expenses
+Abono de nómina mensual (verificado),02/06/2023,"55,00€",Salary,Income
+Aportación periódica al fondo de inversión plan de pensiones - pago procesado,01/06/2023,"20,00€",Investment,Expenses
+Ingreso de nómina del mes correspondiente........,29/05/2023,"86,00€",Salary,Income
+Factura de Agua domiciliada en cuenta (verificado),29/05/2023,"6,40€",Invoice,Expenses
+Cobro de salario por servicios profesionales.....,28/05/2023,"25,00€",Salary,Income
+Cena y copas en el bar de la esquina con el grupo de amigos - pago procesado,27/05/2023,"11,30€",Leisure,Expenses
+Cesta de la compra básica en el la panadería registrado correctamente,26/05/2023,"8,00€",Food,Expenses
+Abono de nómina mensual de este mes,25/05/2023,"155,00€",Salary,Income
+Cesta de la compra básica en el Lidl - pago procesado,23/05/2023,"7,20€",Food,Expenses
+Ronda de cervezas y refrescos con Sara en Vips.,19/05/2023,"10,00€",Leisure,Expenses
+Compra de productos de limpieza en Carrefour,19/05/2023,"6,20€",Food,Expenses
+Ingreso de nómina del mes correspondiente.........,14/05/2023,"30,00€",Salary,Income
+Devolución de dinero prestado a María,04/05/2023,"100,00€",Deposit,Income
+Aportación periódica al fondo de inversión acciones de Apple correspondiente a hoy,01/05/2023,"20,00€",Investment,Expenses
+Merienda en Starbucks por la tarde correspondiente a hoy,01/05/2023,"5,90€",Leisure,Expenses
+Gasto en productos de limpieza para la casa del periodo actual,28/04/2023,"11,80€",Food,Expenses
+Abono de nómina mensual mediante tarjeta,27/04/2023,"92,00€",Salary,Income
+Cobro de salario por servicios profesionales......,27/04/2023,"50,00€",Salary,Income
+Pago del recibo mensual de Electricidad registrado correctamente,25/04/2023,"36,60€",Invoice,Expenses
+Gasto en provisiones para la semana para la casa registrado correctamente,22/04/2023,"3,00€",Food,Expenses
+Pedido de comida a domicilio en Ahorramas para cenar.,21/04/2023,"4,85€",Food,Expenses
+Ronda de cervezas y refrescos con Ana en el retiro,20/04/2023,"15,80€",Leisure,Expenses
+Pago del recibo mensual de Seguro de coche.,18/04/2023,"90,00€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Santi,16/04/2023,"2,70€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa mediante tarjeta,15/04/2023,"55,00€",Salary,Income
+Gasto en carne y pescado para la casa del periodo actual,14/04/2023,"6,20€",Food,Expenses
+Ingreso manual en cajero automático..,12/04/2023,"110,00€",Deposit,Income
+Cena y copas en Vips con el grupo de amigos.,09/04/2023,"9,50€",Leisure,Expenses
+Gasto en la cena de hoy para la casa (verificado),31/03/2023,"6,20€",Food,Expenses
+Cargo automático por el servicio de Internet correspondiente a hoy,30/03/2023,"6,40€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente..........,29/03/2023,"85,00€",Salary,Income
+Liquidación de recibo de Gimnasio.,28/03/2023,"0,47€",Invoice,Expenses
+Factura de Agua domiciliada en cuenta de este mes,26/03/2023,"839,99€",Invoice,Expenses
+Cobro de salario por servicios profesionales.......,26/03/2023,"80,00€",Salary,Income
+Actividad de ocio durante el viaje a la playa - pago procesado,26/03/2023,"72,00€","Leisure, Vacations",Expenses
+Gasto en bebidas y snacks para la casa - pago procesado,24/03/2023,"6,20€",Food,Expenses
+Pago del recibo mensual de Agua del periodo actual,23/03/2023,"8,18€",Invoice,Expenses
+Liquidación de recibo de Spotify registrado correctamente,20/03/2023,"1,29€",Invoice,Expenses
+Compra de carne y pescado en la panadería,17/03/2023,"6,20€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Pedro.,11/03/2023,"2,70€",Leisure,Expenses
+Ingreso de nómina del mes correspondiente...........,10/03/2023,"30,00€",Salary,Income
+Gasto en carne y pescado para la casa (verificado),10/03/2023,"6,20€",Food,Expenses
+Ingreso manual en cajero automático...,05/03/2023,"100,00€",Deposit,Income
+Abono de nómina mensual..,05/03/2023,"25,00€",Salary,Income
+Cesta de la compra básica en el la panadería del periodo actual,05/03/2023,"17,50€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Sara del periodo actual,04/03/2023,"1,70€",Leisure,Expenses
+Gasto en productos de limpieza para la casa (verificado),03/03/2023,"6,20€",Food,Expenses
+Aportación periódica al fondo de inversión Indexa Capital,01/03/2023,"20,00€",Investment,Expenses
+Cargo automático por el servicio de Spotify.,28/02/2023,"6,40€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente............,27/02/2023,"99,00€",Salary,Income
+Gasto en carne y pescado para la casa de este mes,26/02/2023,"1,75€",Food,Expenses
+Ingreso manual en cajero automático....,24/02/2023,"20,00€",Deposit,Income
+Gasto en fruta y verdura para la casa del periodo actual,24/02/2023,"6,20€",Food,Expenses
+Devolución de dinero prestado a Juan.,20/02/2023,"14,00€",Deposit,Income
+Gasto en fruta y verdura para la casa (verificado),19/02/2023,"7,60€",Food,Expenses
+Cobro de salario por servicios profesionales........,18/02/2023,"25,00€",Salary,Income
+Merienda en La Tagliatella por la tarde de este mes,18/02/2023,"11,00€",Leisure,Expenses
+Cargo automático por el servicio de Gas correspondiente a hoy,17/02/2023,"10,00€",Invoice,Expenses
+Gasto en carne y pescado para la casa mediante tarjeta,17/02/2023,"6,20€",Food,Expenses
+Factura de Electricidad domiciliada en cuenta correspondiente a hoy,10/02/2023,"14,06€",Invoice,Expenses
+Ingreso manual en cajero automático.....,07/02/2023,"30,00€",Deposit,Income
+Devolución de dinero prestado a Ana.,05/02/2023,"100,00€",Deposit,Income
+Merienda en CuboKing por la tarde del periodo actual,04/02/2023,"13,00€",Leisure,Expenses
+Compra de carne y pescado en Eroski,04/02/2023,"9,20€",Food,Expenses
+Compra de carne y pescado en Mercadona,03/02/2023,"5,90€",Food,Expenses
+Transferencia de sueldo recibida de la empresa..,01/02/2023,"82,00€",Salary,Income
+Operación de compra de activos en acciones de Apple.,01/02/2023,"20,00€",Investment,Expenses
+Gasto en provisiones para la semana para la casa del periodo actual,31/01/2023,"5,90€",Food,Expenses
+Pedido de comida a domicilio en Mercadona para cenar.,31/01/2023,"4,00€",Food,Expenses
+Merienda en el bar de la esquina por la tarde (verificado),29/01/2023,"35,00€",Leisure,Expenses
+Pedido de comida a domicilio en Eroski para cenar correspondiente a hoy,29/01/2023,"22,00€",Food,Expenses
+Cargo automático por el servicio de Seguro de coche registrado correctamente,29/01/2023,"8,00€",Invoice,Expenses
+Abono de nómina mensual...,27/01/2023,"23,00€",Salary,Income
+Compra de la cena de hoy en Mercadona,26/01/2023,"5,90€",Food,Expenses
+Factura de Gas domiciliada en cuenta registrado correctamente,22/01/2023,"3,00€",Invoice,Expenses
+Liquidación de recibo de Spotify del periodo actual,20/01/2023,"1,96€",Invoice,Expenses
+Factura de Gas domiciliada en cuenta del periodo actual,19/01/2023,"0,82€",Invoice,Expenses
+Ingreso manual en cajero automático......,17/01/2023,"30,00€",Deposit,Income
+Devolución de dinero prestado a Dani,15/01/2023,"100,00€",Deposit,Income
+Cesta de la compra básica en el el mercado central registrado correctamente,15/01/2023,"13,95€",Food,Expenses
+Liquidación de recibo de Gimnasio - pago procesado,14/01/2023,"35,60€",Invoice,Expenses
+Cargo automático por el servicio de Electricidad del periodo actual,11/01/2023,"50,00€",Invoice,Expenses
+Cena y copas en la bolera con el grupo de amigos correspondiente a hoy,05/01/2023,"7,80€",Leisure,Expenses
+Cargo automático por el servicio de Gimnasio registrado correctamente,04/01/2023,"20,00€",Invoice,Expenses
+Aportación periódica al fondo de inversión Bitcoin - pago procesado,01/01/2023,"20,00€",Investment,Expenses
+Ingreso manual en cajero automático.......,01/01/2023,"10,00€",Deposit,Income
+Entradas de cine y palomitas para ver una película con Dani - pago procesado,31/12/2022,"4,00€",Leisure,Expenses
+Ingreso de dinero en efectivo realizado por Elena,30/12/2022,"50,00€",Deposit,Income
+Pedido de comida a domicilio en el mercado central para cenar correspondiente a hoy,30/12/2022,"9,00€",Food,Expenses
+Factura de Gas domiciliada en cuenta (verificado),30/12/2022,"8,00€",Invoice,Expenses
+Pedido de comida a domicilio en Mercadona para cenar - pago procesado,30/12/2022,"7,05€",Food,Expenses
+Ronda de cervezas y refrescos con Elena en la bolera,28/12/2022,"9,00€",Leisure,Expenses
+Abono de nómina mensual....,23/12/2022,"93,00€",Salary,Income
+Pedido de comida a domicilio en el mercado central para cenar registrado correctamente,22/12/2022,"15,00€",Food,Expenses
+Abono de nómina mensual.....,18/12/2022,"32,00€",Salary,Income
+Pedido de comida a domicilio en Lidl para cenar registrado correctamente,18/12/2022,"16,00€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Juan,18/12/2022,"7,90€",Leisure,Expenses
+Pago del recibo mensual de Electricidad del periodo actual,18/12/2022,"6,00€",Invoice,Expenses
+Liquidación de recibo de Netflix correspondiente a hoy,17/12/2022,"80,00€",Invoice,Expenses
+Compra de bebidas y snacks en Mercadona,16/12/2022,"5,90€",Food,Expenses
+Liquidación de recibo de Seguro de coche de este mes,11/12/2022,"218,87€",Invoice,Expenses
+Factura de Agua domiciliada en cuenta mediante tarjeta,7/12/2022,"7,61€",Invoice,Expenses
+Merienda en Starbucks por la tarde registrado correctamente,3/12/2022,"1,08€",Leisure,Expenses
+Ingreso de dinero en efectivo realizado por Santi.,2/12/2022,"10,00€",Deposit,Income
+Gasto en la cena de hoy para la casa de este mes,2/12/2022,"5,90€",Food,Expenses
+Operación de compra de activos en plan de pensiones.,1/12/2022,"20,00€",Investment,Expenses
+Ingreso de nómina del mes correspondiente.............,29/11/2022,"83,00€",Salary,Income
+Factura de Electricidad domiciliada en cuenta registrado correctamente,29/11/2022,"8,00€",Invoice,Expenses
+Liquidación de recibo de Internet (verificado),29/11/2022,"3,00€",Invoice,Expenses
+Transferencia recibida de Dani por Bizum correspondiente a hoy,28/11/2022,"20,00€",Deposit,Income
+Abono de nómina mensual......,27/11/2022,"23,00€",Salary,Income
+Ronda de cervezas y refrescos con Dani en la bolera.,27/11/2022,"5,87€",Leisure,Expenses
+Gasto en carne y pescado para la casa..,26/11/2022,"32,30€",Food,Expenses
+Merienda en Starbucks por la tarde del periodo actual,26/11/2022,"3,00€",Leisure,Expenses
+Cena y copas en la bolera con el grupo de amigos registrado correctamente,24/11/2022,"5,00€",Leisure,Expenses
+Merienda en Starbucks por la tarde (verificado),24/11/2022,"3,00€",Leisure,Expenses
+Cesta de la compra básica en el Mercadona correspondiente a hoy,18/11/2022,"5,90€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Diego.,17/11/2022,"20,00€",Leisure,Expenses
+Compra de provisiones para la semana en Ahorramas,17/11/2022,"7,78€",Food,Expenses
+Liquidación de recibo de Spotify (verificado),15/11/2022,"3,18€",Invoice,Expenses
+Inversión mensual en Bitcoin.,14/11/2022,"15,00€",Investment,Expenses
+Transferencia de sueldo recibida de la empresa...,12/11/2022,"31,00€",Salary,Income
+Gasto en bebidas y snacks para la casa correspondiente a hoy,11/11/2022,"5,90€",Food,Expenses
+Liquidación de recibo de Netflix registrado correctamente,9/11/2022,"0,79€",Invoice,Expenses
+Abono de nómina mensual.......,8/11/2022,"23,00€",Salary,Income
+Gasto en bebidas y snacks para la casa registrado correctamente,8/11/2022,"1,69€",Food,Expenses
+Liquidación de recibo de Agua,6/11/2022,"1,00€",Invoice,Expenses
+Pago del recibo mensual de Electricidad (verificado),5/11/2022,"2,35€",Invoice,Expenses
+Pedido de comida a domicilio en Mercadona para cenar correspondiente a hoy,4/11/2022,"5,90€",Food,Expenses
+Ronda de cervezas y refrescos con Elena en el retiro,4/11/2022,"2,00€",Leisure,Expenses
+Devolución de dinero prestado a Dani.,4/11/2022,"0,10€",Deposit,Income
+Inversión mensual en acciones de Apple - pago procesado,1/11/2022,"20,00€",Investment,Expenses
+Cobro de salario por servicios profesionales.........,31/10/2022,"100,00€",Salary,Income
+Merienda en la bolera por la tarde registrado correctamente,29/10/2022,"3,65€",Leisure,Expenses
+Compra de fruta y verdura en Dia.,28/10/2022,"5,90€",Food,Expenses
+Entradas de cine y palomitas para ver una película con Santi.,26/10/2022,"10,00€",Leisure,Expenses
+Transferencia recibida de Sara por Bizum.,24/10/2022,"20,00€",Deposit,Income
+Liquidación de recibo de Netflix del periodo actual,24/10/2022,"1,45€",Invoice,Expenses
+Cena y copas en Goiko con el grupo de amigos,23/10/2022,"1,79€",Leisure,Expenses
+Cobro de salario por servicios profesionales..........,22/10/2022,"27,00€",Salary,Income
+Compra de fruta y verdura en Lidl registrado correctamente,22/10/2022,"12,70€",Food,Expenses
+Compra de fruta y verdura en Ahorramas,21/10/2022,"5,90€",Food,Expenses
+Gasto en carne y pescado para la casa...,15/10/2022,"25,35€",Food,Expenses
+Cesta de la compra básica en el Dia.,14/10/2022,"4,10€",Food,Expenses
+Devolución de dinero prestado a Pedro.,13/10/2022,"4,50€",Deposit,Income
+Cesta de la compra básica en el Dia - pago procesado,7/10/2022,"5,90€",Food,Expenses
+Cena y copas en Starbucks con el grupo de amigos registrado correctamente,2/10/2022,"1,00€",Leisure,Expenses
+Factura de Netflix domiciliada en cuenta del periodo actual,1/10/2022,"8,00€",Invoice,Expenses
+Devolución de dinero prestado a María.,30/09/2022,"50,00€",Deposit,Income
+Abono de nómina mensual........,30/09/2022,"32,00€",Salary,Income
+Factura de Electricidad domiciliada en cuenta del periodo actual,30/09/2022,"1,45€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Pedro - pago procesado,29/09/2022,"27,50€",Leisure,Expenses
+Entradas de cine y palomitas para ver una película con Sara (verificado),25/09/2022,"11,95€",Leisure,Expenses
+Cargo automático por el servicio de Internet registrado correctamente,25/09/2022,"2,00€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Marta.,22/09/2022,"63,20€",Leisure,Expenses
+Ingreso manual en cajero automático........,22/09/2022,"20,00€",Deposit,Income
+Ingreso de nómina del mes correspondiente..............,21/09/2022,"23,00€",Salary,Income
+Cargo automático por el servicio de Agua correspondiente a hoy,16/09/2022,"2,15€",Invoice,Expenses
+Transferencia recibida de Lucía por Bizum,12/09/2022,"20,00€",Deposit,Income
+Cargo automático por el servicio de Electricidad (verificado),12/09/2022,"8,90€",Invoice,Expenses
+Merienda en Cinesa por la tarde.,11/09/2022,"19,95€",Leisure,Expenses
+Cena y copas en Goiko con el grupo de amigos.,10/09/2022,"21,81€",Leisure,Expenses
+Liquidación de recibo de Gas mediante tarjeta,10/09/2022,"15,00€",Invoice,Expenses
+Merienda en Cinesa por la tarde - pago procesado,08/09/2022,"21,00€",Leisure,Expenses
+Ronda de cervezas y refrescos con Ana en el bar de la esquina,08/09/2022,"8,80€",Leisure,Expenses
+Ronda de cervezas y refrescos con Santi en Vips,06/09/2022,"15,98€",Leisure,Expenses
+Pago del recibo mensual de Spotify correspondiente a hoy,06/09/2022,"7,15€",Invoice,Expenses
+Abono de nómina mensual.........,05/09/2022,"457,74€",Salary,Income
+Cargo automático por el servicio de Gimnasio del periodo actual,03/09/2022,"3,07€",Invoice,Expenses
+Inversión mensual en Indexa Capital,01/09/2022,"20,00€",Investment,Expenses
+Devolución de dinero prestado a Marta,01/09/2022,"20,00€",Deposit,Income
+Pago del recibo mensual de Internet correspondiente a hoy,01/09/2022,"8,00€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con María registrado correctamente,31/08/2022,"1,20€",Leisure,Expenses
+Ingreso manual en cajero automático.........,28/08/2022,"40,00€",Deposit,Income
+Cena y copas en la bolera con el grupo de amigos del periodo actual,28/08/2022,"9,95€",Leisure,Expenses
+Abono de nómina mensual..........,08/08/2022,"225,19€",Salary,Income
+Operación de compra de activos en Indexa Capital.,08/08/2022,"18,30€",Investment,Expenses
+Entradas de cine y palomitas para ver una película con Santi - pago procesado,04/08/2022,"1,00€",Leisure,Expenses
+Aportación periódica al fondo de inversión S&P 500 - pago procesado,01/08/2022,"50,00€",Investment,Expenses
+Ronda de cervezas y refrescos con Diego en La Tagliatella,01/08/2022,"33,40€",Leisure,Expenses
+Inversión mensual en Bitcoin - pago procesado,01/08/2022,"20,00€",Investment,Expenses
+Pago del recibo mensual de Gas (verificado),01/08/2022,"16,00€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Sara de este mes,01/08/2022,"14,00€",Leisure,Expenses
+Pago del recibo mensual de Spotify registrado correctamente,01/08/2022,"2,65€",Invoice,Expenses
+Liquidación de recibo de Gas..,30/07/2022,"2,70€",Invoice,Expenses
+Cobro de salario por servicios profesionales...........,29/07/2022,"1.143,51€",Salary,Income
+Cena y copas en Vips con el grupo de amigos - pago procesado,27/07/2022,"7,10€",Leisure,Expenses
+Factura de Spotify domiciliada en cuenta - pago procesado,24/07/2022,"1,05€",Invoice,Expenses
+Ronda de cervezas y refrescos con Sara en el retiro,21/07/2022,"7,79€",Leisure,Expenses
+Devolución de dinero prestado a Juan - pago procesado,19/07/2022,"5,00€",Deposit,Income
+Ingreso de dinero en efectivo realizado por Carlos.,16/07/2022,"50,00€",Deposit,Income
+Cena y copas en el retiro con el grupo de amigos - pago procesado,16/07/2022,"28,45€",Leisure,Expenses
+Cena y copas en La Tagliatella con el grupo de amigos - pago procesado,15/07/2022,"3,70€",Leisure,Expenses
+Merienda en La Tagliatella por la tarde mediante tarjeta,13/07/2022,"7,10€",Leisure,Expenses
+Factura de Seguro de coche domiciliada en cuenta del periodo actual,09/07/2022,"42,20€",Invoice,Expenses
+Ronda de cervezas y refrescos con Diego en la bolera,09/07/2022,"11,00€",Leisure,Expenses
+Factura de Gimnasio domiciliada en cuenta correspondiente a hoy,09/07/2022,"1,45€",Invoice,Expenses
+Transferencia recibida de Lucía por Bizum.,05/07/2022,"163,40€",Deposit,Income
+Pago del recibo mensual de Agua (verificado),05/07/2022,"30,00€",Invoice,Expenses
+Abono de nómina mensual...........,04/07/2022,"234,54€",Salary,Income
+Cargo automático por el servicio de Spotify - pago procesado,02/07/2022,"16,00€",Invoice,Expenses
+Merienda en Cinesa por la tarde correspondiente a hoy,02/07/2022,"3,65€",Leisure,Expenses
+Liquidación de recibo de Spotify de este mes,30/06/2022,"6,95€",Invoice,Expenses
+Ronda de cervezas y refrescos con Sara en Goiko,30/06/2022,"4,40€",Leisure,Expenses
+Cena y copas en la bolera con el grupo de amigos (verificado),30/06/2022,"4,28€",Leisure,Expenses
+Liquidación de recibo de Internet de este mes,29/06/2022,"1,45€",Invoice,Expenses
+Ronda de cervezas y refrescos con Pedro en Vips,28/06/2022,"14,00€",Leisure,Expenses
+Cena y copas en Starbucks con el grupo de amigos del periodo actual,28/06/2022,"1,50€",Leisure,Expenses
+Factura de Gas domiciliada en cuenta de este mes,26/06/2022,"25,74€",Invoice,Expenses
+Ronda de cervezas y refrescos con Lucía en CuboKing,24/06/2022,"1,95€",Leisure,Expenses
+Pago del recibo mensual de Agua de este mes,24/06/2022,"1,45€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente...............,22/06/2022,"29,00€",Salary,Income
+Ingreso de dinero en efectivo realizado por Sara - pago procesado,20/06/2022,"50,00€",Deposit,Income
+Factura de Gimnasio domiciliada en cuenta registrado correctamente,20/06/2022,"21,00€",Invoice,Expenses
+Abono de nómina mensual............,19/06/2022,"23,00€",Salary,Income
+Ingreso de nómina del mes correspondiente................,18/06/2022,"23,00€",Salary,Income
+Transferencia recibida de Carlos por Bizum - pago procesado,12/06/2022,"2,00€",Deposit,Income
+Cena y copas en CuboKing con el grupo de amigos - pago procesado,10/06/2022,"11,95€",Leisure,Expenses
+Pago del recibo mensual de Agua mediante tarjeta,10/06/2022,"1,45€",Invoice,Expenses
+Liquidación de recibo de Gas...,08/06/2022,"1,60€",Invoice,Expenses
+Cobro de salario por servicios profesionales............,05/06/2022,"27,00€",Salary,Income
+Transferencia de sueldo recibida de la empresa....,05/06/2022,"23,00€",Salary,Income
+Ingreso de dinero en efectivo realizado por Elena.,05/06/2022,"20,00€",Deposit,Income
+Factura de Electricidad domiciliada en cuenta (verificado),02/06/2022,"16,00€",Invoice,Expenses
+Compra de Bitcoin para diversificar cartera.,01/06/2022,"30,00€",Investment,Expenses
+Aportación periódica al fondo de inversión S&P 500 correspondiente a hoy,01/06/2022,"30,00€",Investment,Expenses
+Cesta de la compra básica en el Dia correspondiente a hoy,01/06/2022,"7,30€",Food,Expenses
+Cena de vacaciones con Marta en un restaurante de Londres,31/05/2022,"21,20€","Food, Vacations",Expenses
+Cena de vacaciones con Elena en un restaurante de la sierra,31/05/2022,"10,00€","Food, Vacations",Expenses
+Cena de vacaciones con Lucía en un restaurante de Valencia,31/05/2022,"7,88€","Food, Vacations",Expenses
+Actividad de ocio durante el viaje a la playa correspondiente a hoy,31/05/2022,"6,00€","Leisure, Vacations",Expenses
+Actividad de ocio durante el viaje a Londres correspondiente a hoy,31/05/2022,"6,00€","Leisure, Vacations",Expenses
+Cena de vacaciones con Juan en un restaurante de Ibiza,31/05/2022,"5,20€","Food, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra correspondiente a hoy,31/05/2022,"2,40€","Invoice, Vacations",Expenses
+Ingreso manual en cajero automático..........,30/05/2022,"200,00€",Deposit,Income
+Cargo por servicio contratado durante las vacaciones en Valencia,30/05/2022,"54,43€","Invoice, Vacations",Expenses
+Cena de vacaciones con María en un restaurante de Valencia,30/05/2022,"17,23€","Food, Vacations",Expenses
+Cena de vacaciones con Sara en un restaurante de el hotel Ritz,30/05/2022,"3,10€","Food, Vacations",Expenses
+Cesta de la compra básica en el Lidl correspondiente a hoy,28/05/2022,"4,76€",Food,Expenses
+Cesta de la compra básica en el Ahorramas del periodo actual,28/05/2022,"3,69€",Food,Expenses
+Liquidación de recibo de Electricidad.,26/05/2022,"44,34€",Invoice,Expenses
+Liquidación de recibo de Spotify mediante tarjeta,22/05/2022,"20,00€",Invoice,Expenses
+Factura de Agua domiciliada en cuenta..,21/05/2022,"3,49€",Invoice,Expenses
+Compra de Indexa Capital para diversificar cartera.,20/05/2022,"50,00€",Investment,Expenses
+Pedido de comida a domicilio en Mercadona para cenar registrado correctamente,18/05/2022,"1,88€",Food,Expenses
+Cesta de la compra básica en el Lidl registrado correctamente,16/05/2022,"3,68€",Food,Expenses
+Pedido de comida a domicilio en Ahorramas para cenar - pago procesado,16/05/2022,"1,90€",Food,Expenses
+Cena de vacaciones con Ana en un restaurante de el hotel Ritz,15/05/2022,"12,00€","Food, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en Londres,15/05/2022,"6,10€","Invoice, Vacations",Expenses
+Cena de vacaciones con Diego en un restaurante de la playa,15/05/2022,"6,00€","Food, Vacations",Expenses
+Cena de vacaciones con Lucía en un restaurante de la playa.,15/05/2022,"3,80€","Food, Vacations",Expenses
+Cena de vacaciones con Sara en un restaurante de Valencia,14/05/2022,"22,00€","Food, Vacations",Expenses
+Actividad de ocio durante el viaje a la playa registrado correctamente,14/05/2022,"7,00€","Leisure, Vacations",Expenses
+Actividad de ocio durante el viaje a París.,14/05/2022,"5,00€","Leisure, Vacations",Expenses
+Cena de vacaciones con Carlos en un restaurante de París,14/05/2022,"3,50€","Food, Vacations",Expenses
+Cena de vacaciones con Santi en un restaurante de la playa,14/05/2022,"3,50€","Food, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en el hotel Ritz,14/05/2022,"1,00€","Invoice, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra registrado correctamente,13/05/2022,"36,00€","Invoice, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en el hotel Ritz.,13/05/2022,"6,70€","Invoice, Vacations",Expenses
+Cena de vacaciones con María en un restaurante de Londres,13/05/2022,"2,70€","Food, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra del periodo actual,12/05/2022,"109,85€","Invoice, Vacations",Expenses
+Cesta de la compra básica en el Mercadona registrado correctamente,11/05/2022,"71,95€",Food,Expenses
+Devolución de dinero prestado a Ana - pago procesado,11/05/2022,"1,20€",Deposit,Income
+Compra de provisiones para la semana en Dia,09/05/2022,"7,06€",Food,Expenses
+Compra de bebidas y snacks en Ahorramas.,07/05/2022,"10,00€",Food,Expenses
+Factura de Internet domiciliada en cuenta (verificado),07/05/2022,"6,00€",Invoice,Expenses
+Gasto en bebidas y snacks para la casa del periodo actual,06/05/2022,"8,05€",Food,Expenses
+Pedido de comida a domicilio en la panadería para cenar - pago procesado,03/05/2022,"14,67€",Food,Expenses
+Pedido de comida a domicilio en Eroski para cenar registrado correctamente,02/05/2022,"5,19€",Food,Expenses
+Aportación periódica al fondo de inversión Indexa Capital.,01/05/2022,"30,00€",Investment,Expenses
+Factura de Spotify domiciliada en cuenta correspondiente a hoy,01/05/2022,"10,00€",Invoice,Expenses
+Cena de vacaciones con Juan en un restaurante de el hotel Ritz,01/05/2022,"6,20€","Food, Vacations",Expenses
+Cena de vacaciones con Elena en un restaurante de París,01/05/2022,"4,10€","Food, Vacations",Expenses
+Cena de vacaciones con Santi en un restaurante de la playa.,30/04/2022,"18,40€","Food, Vacations",Expenses
+Actividad de ocio durante el viaje a Londres registrado correctamente,30/04/2022,"1,90€","Leisure, Vacations",Expenses
+Cargo por servicio contratado durante las vacaciones en Valencia.,30/04/2022,"1,00€","Invoice, Vacations",Expenses
+Compra de productos de limpieza en Eroski,27/04/2022,"2,88€",Food,Expenses
+Ronda de cervezas y refrescos con Juan en Cinesa,27/04/2022,"0,50€",Leisure,Expenses
+Compra de la cena de hoy en Ahorramas.,25/04/2022,"44,36€",Food,Expenses
+Operación de compra de activos en letras del tesoro - pago procesado,25/04/2022,"25,00€",Investment,Expenses
+Factura de Internet domiciliada en cuenta de este mes,25/04/2022,"13,60€",Invoice,Expenses
+Cena y copas en el retiro con el grupo de amigos correspondiente a hoy,25/04/2022,"1,00€",Leisure,Expenses
+Cargo por servicio contratado durante las vacaciones en la sierra (verificado),23/04/2022,"24,80€","Invoice, Vacations",Expenses
+Pago del recibo mensual de Electricidad de este mes,23/04/2022,"20,00€",Invoice,Expenses
+Gasto en fruta y verdura para la casa de este mes,23/04/2022,"2,19€",Food,Expenses
+Pedido de comida a domicilio en Ahorramas para cenar correspondiente a hoy,21/04/2022,"9,90€",Food,Expenses
+Merienda en CuboKing por la tarde (verificado),19/04/2022,"0,50€",Leisure,Expenses
+Cargo automático por el servicio de Seguro de coche del periodo actual,16/04/2022,"1,00€",Invoice,Expenses
+Pedido de comida a domicilio en la panadería para cenar correspondiente a hoy,13/04/2022,"32,35€",Food,Expenses
+Pedido de comida a domicilio en Eroski para cenar del periodo actual,11/04/2022,"15,36€",Food,Expenses
+Cesta de la compra básica en el Ahorramas (verificado),09/04/2022,"14,40€",Food,Expenses
+Liquidación de recibo de Netflix (verificado),09/04/2022,"13,00€",Invoice,Expenses
+Factura de Gimnasio domiciliada en cuenta del periodo actual,09/04/2022,"6,30€",Invoice,Expenses
+Merienda en La Tagliatella por la tarde..,09/04/2022,"1,90€",Leisure,Expenses
+Pedido de comida a domicilio en el mercado central para cenar del periodo actual,08/04/2022,"47,52€",Food,Expenses
+Factura de Agua domiciliada en cuenta...,05/04/2022,"15,00€",Invoice,Expenses
+Cesta de la compra básica en el Dia registrado correctamente,04/04/2022,"5,96€",Food,Expenses
+Compra de acciones de Apple para diversificar cartera.,01/04/2022,"30,00€",Investment,Expenses
+Pedido de comida a domicilio en Eroski para cenar (verificado),30/03/2022,"1,88€",Food,Expenses
+Cesta de la compra básica en el el mercado central del periodo actual,26/03/2022,"121,11€",Food,Expenses
+Gasto en carne y pescado para la casa....,24/03/2022,"29,21€",Food,Expenses
+Cesta de la compra básica en el Ahorramas de este mes,22/03/2022,"31,70€",Food,Expenses
+Cesta de la compra básica en el el mercado central (verificado),19/03/2022,"55,91€",Food,Expenses
+Ronda de cervezas y refrescos con Lucía en Goiko,18/03/2022,"10,50€",Leisure,Expenses
+Cargo automático por el servicio de Agua registrado correctamente,18/03/2022,"4,30€",Invoice,Expenses
+Merienda en Vips por la tarde correspondiente a hoy,18/03/2022,"3,00€",Leisure,Expenses
+Pedido de comida a domicilio en Mercadona para cenar del periodo actual,17/03/2022,"0,49€",Food,Expenses
+Cena y copas en el bar de la esquina con el grupo de amigos correspondiente a hoy,16/03/2022,"19,00€",Leisure,Expenses
+Pago del recibo mensual de Gas de este mes,16/03/2022,"6,00€",Invoice,Expenses
+Devolución de dinero prestado a Sara,15/03/2022,"643,60€",Deposit,Income
+Ronda de cervezas y refrescos con Elena en La Tagliatella,12/03/2022,"5,00€",Leisure,Expenses
+Ronda de cervezas y refrescos con Juan en el retiro,12/03/2022,"0,52€",Leisure,Expenses
+Pago del recibo mensual de Electricidad mediante tarjeta,04/03/2022,"100,38€",Invoice,Expenses
+Cargo automático por el servicio de Spotify correspondiente a hoy,04/03/2022,"19,90€",Invoice,Expenses
+Transferencia recibida de Juan por Bizum,04/03/2022,"5,50€",Deposit,Income
+Ingreso manual en cajero automático...........,04/03/2022,"5,00€",Deposit,Income
+Gasto en bebidas y snacks para la casa (verificado),02/03/2022,"0,95€",Food,Expenses
+Operación de compra de activos en S&P 500 registrado correctamente,01/03/2022,"30,00€",Investment,Expenses
+Transferencia recibida de Elena por Bizum.,01/03/2022,"5,00€",Deposit,Income
+Compra de Indexa Capital para diversificar cartera - pago procesado,28/02/2022,"25,00€",Investment,Expenses
+Devolución de dinero prestado a Dani - pago procesado,28/02/2022,"4,91€",Deposit,Income
+Cena y copas en el bar de la esquina con el grupo de amigos registrado correctamente,27/02/2022,"1,48€",Leisure,Expenses
+Merienda en Starbucks por la tarde de este mes,27/02/2022,"1,48€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa.....,24/02/2022,"146,00€",Salary,Income
+Liquidación de recibo de Agua.,22/02/2022,"20,55€",Invoice,Expenses
+Ronda de cervezas y refrescos con Elena en el retiro.,21/02/2022,"10,00€",Leisure,Expenses
+Cena y copas en Starbucks con el grupo de amigos (verificado),21/02/2022,"10,00€",Leisure,Expenses
+Devolución de dinero prestado a Marta.,21/02/2022,"7,93€",Deposit,Income
+Ingreso manual en cajero automático............,19/02/2022,"50,00€",Deposit,Income
+Liquidación de recibo de Gas....,19/02/2022,"16,00€",Invoice,Expenses
+Liquidación de recibo de Agua - pago procesado,19/02/2022,"10,00€",Invoice,Expenses
+Ronda de cervezas y refrescos con Diego en Starbucks.,19/02/2022,"2,00€",Leisure,Expenses
+Merienda en La Tagliatella por la tarde...,19/02/2022,"2,00€",Leisure,Expenses
+Pago del recibo mensual de Netflix - pago procesado,17/02/2022,"12,79€",Invoice,Expenses
+Transferencia recibida de Lucía por Bizum - pago procesado,14/02/2022,"6,50€",Deposit,Income
+Liquidación de recibo de Gimnasio correspondiente a hoy,09/02/2022,"10,00€",Invoice,Expenses
+Cena y copas en el retiro con el grupo de amigos registrado correctamente,06/02/2022,"20,00€",Leisure,Expenses
+Transferencia recibida de Marta por Bizum,06/02/2022,"20,00€",Deposit,Income
+Liquidación de recibo de Spotify..,06/02/2022,"2,00€",Invoice,Expenses
+Ingreso de dinero en efectivo realizado por Ana,05/02/2022,"50,00€",Deposit,Income
+Pago del recibo mensual de Gas mediante tarjeta,05/02/2022,"20,00€",Invoice,Expenses
+Liquidación de recibo de Netflix de este mes,05/02/2022,"1,09€",Invoice,Expenses
+Aportación periódica al fondo de inversión acciones de Apple registrado correctamente,01/02/2022,"30,00€",Investment,Expenses
+Operación de compra de activos en Bitcoin registrado correctamente,01/02/2022,"20,00€",Investment,Expenses
+Cargo automático por el servicio de Agua del periodo actual,30/01/2022,"2,95€",Invoice,Expenses
+Abono de nómina mensual.............,28/01/2022,"125,00€",Salary,Income
+Factura de Internet domiciliada en cuenta mediante tarjeta,28/01/2022,"1,09€",Invoice,Expenses
+Liquidación de recibo de Gas.....,20/01/2022,"1,09€",Invoice,Expenses
+Ingreso manual en cajero automático.............,18/01/2022,"48,99€",Deposit,Income
+Ingreso manual en cajero automático..............,18/01/2022,"20,00€",Deposit,Income
+Cargo automático por el servicio de Electricidad de este mes,18/01/2022,"16,00€",Invoice,Expenses
+Liquidación de recibo de Netflix mediante tarjeta,14/01/2022,"0,89€",Invoice,Expenses
+Compra de acciones de Apple para diversificar cartera - pago procesado,09/01/2022,"50,00€",Investment,Expenses
+Devolución de dinero prestado a Elena - pago procesado,07/01/2022,"10,00€",Deposit,Income
+Entradas de cine y palomitas para ver una película con Sara mediante tarjeta,07/01/2022,"6,00€",Leisure,Expenses
+Pago del recibo mensual de Spotify del periodo actual,05/01/2022,"1,00€",Invoice,Expenses
+Factura de Agua domiciliada en cuenta....,24/12/2021,"4,00€",Invoice,Expenses
+Merienda en La Tagliatella por la tarde....,22/12/2021,"11,85€",Leisure,Expenses
+Cargo automático por el servicio de Agua (verificado),22/12/2021,"2,55€",Invoice,Expenses
+Pago del recibo mensual de Netflix correspondiente a hoy,22/12/2021,"0,49€",Invoice,Expenses
+Ingreso de dinero en efectivo realizado por Santi - pago procesado,21/12/2021,"170,00€",Deposit,Income
+Cobro de salario por servicios profesionales.............,21/12/2021,"138,00€",Salary,Income
+Compra de plan de pensiones para diversificar cartera.,21/12/2021,"15,00€",Investment,Expenses
+Liquidación de recibo de Gimnasio registrado correctamente,21/12/2021,"0,65€",Invoice,Expenses
+Pago del recibo mensual de Seguro de coche - pago procesado,20/12/2021,"16,00€",Invoice,Expenses
+Liquidación de recibo de Gas......,19/12/2021,"9,75€",Invoice,Expenses
+Liquidación de recibo de Spotify...,17/12/2021,"70,00€",Invoice,Expenses
+Factura de Gas domiciliada en cuenta mediante tarjeta,14/12/2021,"3,00€",Invoice,Expenses
+Liquidación de recibo de Electricidad - pago procesado,9/12/2021,"0,65€",Invoice,Expenses
+Aportación periódica al fondo de inversión plan de pensiones correspondiente a hoy,7/12/2021,"19,00€",Investment,Expenses
+Merienda en Starbucks por la tarde mediante tarjeta,4/12/2021,"20,00€",Leisure,Expenses
+Merienda en La Tagliatella por la tarde.....,4/12/2021,"3,00€",Leisure,Expenses
+Transferencia recibida de Pedro por Bizum,4/12/2021,"0,50€",Deposit,Income
+Ingreso manual en cajero automático...............,3/12/2021,"50,00€",Deposit,Income
+Ingreso manual en cajero automático................,3/12/2021,"1,00€",Deposit,Income
+Pago del recibo mensual de Gimnasio - pago procesado,3/12/2021,"0,49€",Invoice,Expenses
+Cobro de salario por servicios profesionales..............,2/12/2021,"128,00€",Salary,Income
+Aportación periódica al fondo de inversión plan de pensiones registrado correctamente,2/12/2021,"25,00€",Investment,Expenses
+Liquidación de recibo de Netflix..,30/11/2021,"53,00€",Invoice,Expenses
+Transferencia recibida de Elena por Bizum - pago procesado,27/11/2021,"65,00€",Deposit,Income
+Liquidación de recibo de Agua correspondiente a hoy,26/11/2021,"48,99€",Invoice,Expenses
+Liquidación de recibo de Gimnasio del periodo actual,23/11/2021,"3,00€",Invoice,Expenses
+Factura de Gimnasio domiciliada en cuenta (verificado),22/11/2021,"65,00€",Invoice,Expenses
+Liquidación de recibo de Electricidad correspondiente a hoy,22/11/2021,"0,99€",Invoice,Expenses
+Factura de Seguro de coche domiciliada en cuenta (verificado),19/11/2021,"0,49€",Invoice,Expenses
+Ingreso manual en cajero automático.................,18/11/2021,"50,00€",Deposit,Income
+Liquidación de recibo de Agua registrado correctamente,18/11/2021,"16,00€",Invoice,Expenses
+Pago del recibo mensual de Seguro de coche correspondiente a hoy,18/11/2021,"0,49€",Invoice,Expenses
+Ingreso de nómina del mes correspondiente.................,15/11/2021,"149,00€",Salary,Income
+Inversión mensual en Indexa Capital.,15/11/2021,"1,00€",Investment,Expenses
+Devolución de dinero prestado a Pedro - pago procesado,11/11/2021,"6,07€",Deposit,Income
+Pago del recibo mensual de Agua..,11/11/2021,"0,65€",Invoice,Expenses
+Operación de compra de activos en S&P 500 del periodo actual,10/11/2021,"35,00€",Investment,Expenses
+Inversión mensual en plan de pensiones.,10/11/2021,"20,00€",Investment,Expenses
+Cargo automático por el servicio de Internet del periodo actual,8/11/2021,"0,65€",Invoice,Expenses
+Ronda de cervezas y refrescos con Elena en Starbucks,7/11/2021,"12,50€",Leisure,Expenses
+Factura de Electricidad domiciliada en cuenta de este mes,5/11/2021,"0,49€",Invoice,Expenses
+Aportación periódica al fondo de inversión S&P 500 registrado correctamente,5/11/2021,"0,01€",Investment,Expenses
+Factura de Spotify domiciliada en cuenta registrado correctamente,3/11/2021,"0,65€",Invoice,Expenses
+Liquidación de recibo de Agua del periodo actual,29/10/2021,"1,34€",Invoice,Expenses
+Cargo automático por el servicio de Gimnasio (verificado),28/10/2021,"1,09€",Invoice,Expenses
+Cargo automático por el servicio de Seguro de coche (verificado),26/10/2021,"0,65€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Diego - pago procesado,23/10/2021,"1,75€",Leisure,Expenses
+Compra de letras del tesoro para diversificar cartera - pago procesado,22/10/2021,"100,00€",Investment,Expenses
+Operación de compra de activos en S&P 500 (verificado),22/10/2021,"30,00€",Investment,Expenses
+Inversión mensual en Indexa Capital - pago procesado,22/10/2021,"20,00€",Investment,Expenses
+Entradas de cine y palomitas para ver una película con María del periodo actual,22/10/2021,"3,00€",Leisure,Expenses
+Merienda en el bar de la esquina por la tarde de este mes,22/10/2021,"1,85€",Leisure,Expenses
+Pago del recibo mensual de Seguro de coche registrado correctamente,21/10/2021,"0,65€",Invoice,Expenses
+Factura de Spotify domiciliada en cuenta del periodo actual,19/10/2021,"16,00€",Invoice,Expenses
+Factura de Electricidad domiciliada en cuenta mediante tarjeta,19/10/2021,"1,15€",Invoice,Expenses
+Devolución de dinero prestado a Diego,18/10/2021,"100,00€",Deposit,Income
+Factura de Spotify domiciliada en cuenta (verificado),18/10/2021,"1,15€",Invoice,Expenses
+Entradas de cine y palomitas para ver una película con Diego correspondiente a hoy,16/10/2021,"24,50€",Leisure,Expenses
+Devolución de dinero prestado a Ana correspondiente a hoy,16/10/2021,"15,00€",Deposit,Income
+Pago del recibo mensual de Gimnasio correspondiente a hoy,15/10/2021,"1,09€",Invoice,Expenses
+Liquidación de recibo de Seguro de coche mediante tarjeta,14/10/2021,"1,15€",Invoice,Expenses
+Merienda en el bar de la esquina por la tarde mediante tarjeta,8/10/2021,"10,00€",Leisure,Expenses
+Cena y copas en La Tagliatella con el grupo de amigos correspondiente a hoy,8/10/2021,"4,50€",Leisure,Expenses
+Ronda de cervezas y refrescos con Elena en Starbucks.,8/10/2021,"1,50€",Leisure,Expenses
+Liquidación de recibo de Electricidad registrado correctamente,8/10/2021,"1,09€",Invoice,Expenses
+Ronda de cervezas y refrescos con Carlos en Goiko,7/10/2021,"4,50€",Leisure,Expenses
+Pago del recibo mensual de Seguro de coche del periodo actual,6/10/2021,"100,00€",Invoice,Expenses
+Liquidación de recibo de Spotify....,6/10/2021,"0,65€",Invoice,Expenses
+Liquidación de recibo de Agua (verificado),4/10/2021,"1,09€",Invoice,Expenses
+Factura de Agua domiciliada en cuenta.....,27/09/2021,"1,09€",Invoice,Expenses
+Cena y copas en Cinesa con el grupo de amigos correspondiente a hoy,26/09/2021,"7,50€",Leisure,Expenses
+Cobro de salario por servicios profesionales...............,23/09/2021,"467,00€",Salary,Income
+Ingreso manual en cajero automático..................,23/09/2021,"100,00€",Deposit,Income
+Inversión mensual en plan de pensiones - pago procesado,23/09/2021,"35,00€",Investment,Expenses
+Pago del recibo mensual de Gimnasio registrado correctamente,19/09/2021,"1,15€",Invoice,Expenses
+Liquidación de recibo de Internet mediante tarjeta,18/09/2021,"16,00€",Invoice,Expenses
+Merienda en CuboKing por la tarde de este mes,18/09/2021,"6,80€",Leisure,Expenses
+Cargo automático por el servicio de Agua de este mes,16/09/2021,"2,99€",Invoice,Expenses
+Ingreso manual en cajero automático...................,14/09/2021,"70,00€",Deposit,Income
+Cargo automático por el servicio de Netflix correspondiente a hoy,13/09/2021,"1,09€",Invoice,Expenses
+Cena y copas en Vips con el grupo de amigos correspondiente a hoy,12/09/2021,"10,75€",Leisure,Expenses
+Ronda de cervezas y refrescos con Marta en Vips.,11/09/2021,"3,00€",Leisure,Expenses
+Transferencia de sueldo recibida de la empresa......,07/09/2021,"613,62€",Salary,Income
+Liquidación de recibo de Agua de este mes,07/09/2021,"64,35€",Invoice,Expenses
+Ronda de cervezas y refrescos con Ana en CuboKing,01/09/2021,"1,50€",Leisure,Expenses

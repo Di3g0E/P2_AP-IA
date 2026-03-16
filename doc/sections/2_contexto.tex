@@ -1,0 +1,15 @@
+\section{Contexto}
+\label{sec:contexto}
+
+El problema abordado es la ineficiencia de indicar manualmente la categoría de gasto de una transacción bancaria. Además de muchas de estas transacciones se repiten recurrentemente, lo que hace que sea una tarea tediosa para el usuario y pueda generar bajas en el uso de la aplicación. 
+
+La heterogeneidad en las descripciones de las transacciones, sumada al volumen de movimientos, impide el uso de reglas fijas o filtros de texto simples, que fallan ante cualquier cambio en la redacción. Por ello, es necesario un sistema basado en Procesamiento de Lenguaje Natural (PLN) más complejo que recoja algo más de información y correlacione para clasificarlas automáticamente en categorías específicas (\textit{Area}). 
+
+Para validar la eficacia de esta clasificación, se utilizan las siguientes métricas:
+
+\begin{itemize}
+    \item \textbf{Accuracy (Exactitud):} Mide el porcentaje total de transacciones que el modelo ha clasificado en la categoría correcta.
+    \item \textbf{F1-Score:} Evalúa el equilibrio entre la precisión y la capacidad de recuperación del modelo. Es fundamental para asegurar que el sistema clasifique bien tanto las categorías muy comunes (como \textit{Food}) como aquellas con menos ejemplos en el dataset.
+\end{itemize}
+
+El objetivo es transformar este flujo de descripciones heterogéneas en información organizada y etiquetada de forma automática.

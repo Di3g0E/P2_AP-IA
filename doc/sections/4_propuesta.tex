@@ -4,7 +4,9 @@
 Para abordar la clasificación de transacciones financieras, se ha desarrollado un pipeline modular que abarca desde el preprocesamiento de texto hasta la evaluación de múltiples modelos de aprendizaje supervisado.
 
 \subsection{Dataset Unificado y Preprocesamiento}
-Se han combinado dos fuentes de datos principales: \texttt{db\_orig.csv} y \texttt{db\_modified\_descriptions.csv}, creando un corpus robusto con el doble de ejemplos por categoría. El preprocesamiento incluye:
+Después de hacer tests con el dataset original, nos dimos cuenta de que no era suficiente para entrenar un modelo de machine learning, por lo que decidimos combinarlo con el dataset modificado. Aun así, al ser datasets tan diferentes, no evaluaban corréctamente el resto de categorías, por lo que decidimos quedarnos solo con el dataset modificado.
+
+Se han combinado dos fuentes de datos principales: \texttt{db\_orig.csv} y \newline \texttt{db\_modified\_descriptions.csv}, creando un corpus robusto con el doble de ejemplos por categoría. El preprocesamiento incluye:
 \begin{itemize}
     \item Conversión a minúsculas y eliminación de caracteres especiales.
     \item Vectorización de texto mediante \textbf{TF-IDF} (\textit{Term Frequency - Inverse Document Frequency}) para transformar las descripciones en representaciones numéricas.

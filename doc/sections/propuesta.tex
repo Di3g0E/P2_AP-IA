@@ -1,11 +1,30 @@
 \section{Propuesta de solución}
 \label{sec:propuesta}
 
-Aquí se debe detallar la implementación. Se recomienda incluir:
+Para abordar la clasificación de transacciones financieras, se ha desarrollado un pipeline modular que abarca desde el preprocesamiento de texto hasta la evaluación de múltiples modelos de aprendizaje supervisado.
+
+\subsection{Dataset Unificado y Preprocesamiento}
+Se han combinado dos fuentes de datos principales: \texttt{db\_orig.csv} y \texttt{db\_modified\_descriptions.csv}, creando un corpus robusto con el doble de ejemplos por categoría. El preprocesamiento incluye:
 \begin{itemize}
-    \item Descripción del preprocesamiento (limpieza de texto, manejo de idiomas).
-    \item Arquitectura del modelo elegido (SGDClassifier, Transformers).
-    \item Resultados obtenidos y métricas (Precision, Recall, F1-score).
+    \item Conversión a minúsculas y eliminación de caracteres especiales.
+    \item Vectorización de texto mediante \textbf{TF-IDF} (\textit{Term Frequency - Inverse Document Frequency}) para transformar las descripciones en representaciones numéricas.
 \end{itemize}
 
-\textit{Nota: Incluye capturas explicativas del código y de las gráficas resultantes.}
+\subsection{Comparativa de Modelos}
+Se evaluaron cuatro arquitecturas distintas mediante una validación con partición 50/50 para asegurar la capacidad de generalización:
+\begin{itemize}
+    \item \textbf{Logistic Regression}: Proporcionó alta explicabilidad pero rendimiento ligeramente inferior en clases minoritarias.
+    \item \textbf{SGDClassifier}: El modelo base del sistema, destaca por su extrema eficiencia en recursos.
+    \item \textbf{Random Forest}: Elevada precisión, pero con un coste computacional y de almacenamiento excesivo para el dominio del problema.
+    \item \textbf{Linear SVM}: El modelo con mejor rendimiento global.
+\end{itemize}
+
+\subsection{Resultados y Selección Final}
+Tras las pruebas, el modelo \textbf{Linear SVM} obtuvo un \textbf{F1-Macro de 0.9124}, superando al SGD original. Este modelo ofrece el mejor equilibrio entre:
+\begin{enumerate}
+    \item \textbf{Precisión}: Máxima eficacia en la separación de categorías complejas (como ``Ocio'' vs ``Ocio, Vacaciones'').
+    \item \textbf{Explicabilidad}: Al ser un modelo lineal, permite auditar los pesos de las palabras clave.
+    \item \textbf{Eficiencia}: Mantiene una huella de memoria ligera y tiempos de inferencia casi instantáneos.
+\end{enumerate}
+
+Por tanto, se ha seleccionado \texttt{LinearSVM.joblib} como el modelo principal para la implementación en el sistema de producción.

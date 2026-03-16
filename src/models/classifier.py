@@ -2,7 +2,7 @@ import os
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
-from utils.config import TFIDF_PARAMS, SGD_PARAMS
+from src.utils.config import TFIDF_PARAMS, SGD_PARAMS
 
 class FinancialClassifier:
     """Resource-efficient classifier with incremental learning support."""

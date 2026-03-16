@@ -27,12 +27,7 @@ data/external/*
 !data/external/.gitkeep
 
 # Models
-models/*.pkl
-models/*.h5
-models/*.onnx
-models/*.pt
-models/*.joblib
-!models/.gitkeep
+models/
 playground/results*
 
 # Logs

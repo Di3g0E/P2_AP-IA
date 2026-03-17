@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
-from src.utils.config import DATA_RAW_PATH, MODEL_OUTPUT_PATH
+from src.utils.config import DATA_PROCESSED_PATH, MODEL_OUTPUT_PATH
 from src.data.preprocessing import preprocess_text
 from src.models.classifier import FinancialClassifier
 
@@ -23,7 +23,7 @@ def train(data_path, model_path):
     print(f"\nSummary Results -> Accuracy: {report['accuracy']:.4f} | Macro F1: {report['macro avg']['f1-score']:.4f} | Weighted F1: {report['weighted avg']['f1-score']:.4f}\n")
     
     model.save(model_path)
-    print(f"\nModel saved to {model_path}")
+    print(f"Model saved to {model_path}\n")
 
 def evaluate(data_path, model_path):
     model = FinancialClassifier.load(model_path)
@@ -40,7 +40,7 @@ def evaluate(data_path, model_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Financial Transaction Classification Pipeline")
     parser.add_argument("--mode", type=str, choices=["train", "evaluate"], default="train", help="Mode: train or evaluate")
-    parser.add_argument("--data", type=str, default=DATA_RAW_PATH, help="Path to the CSV database")
+    parser.add_argument("--data", type=str, default=DATA_PROCESSED_PATH, help="Path to the CSV database")
     parser.add_argument("--model", type=str, default=MODEL_OUTPUT_PATH, help="Path to save/load the model")
     
     args = parser.parse_args()

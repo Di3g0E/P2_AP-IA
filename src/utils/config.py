@@ -3,8 +3,8 @@ import logging
 
 # --- PATHS ---
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-DATA_RAW_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "db_orig.csv")
-MODEL_OUTPUT_PATH = os.path.join(PROJECT_ROOT, "models", "production_model.joblib")
+DATA_PROCESSED_PATH = os.path.join(PROJECT_ROOT, "data", "processed", "db_mod_descript_train.csv")
+MODEL_OUTPUT_PATH = os.path.join(PROJECT_ROOT, "models", "LinearSVM_mod.joblib")
 
 # --- MODEL PARAMETERS ---
 TFIDF_PARAMS = {

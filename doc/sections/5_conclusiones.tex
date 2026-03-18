@@ -3,4 +3,14 @@
 
 El desarrollo de este sistema demuestra que modelos lineales clásicos como el \textbf{Linear SVM}, combinados con una vectorización TF-IDF bien configurada, son extremadamente competitivos para tareas de clasificación de texto financiero corto. 
 
-La unión de los datasets original y modificado ha sido clave para mejorar la robustez ante diferentes estilos de redacción. La adopción final del modelo SVM garantiza que el sistema no solo sea preciso, sino también transparente y eficiente para su despliegue real. Como líneas futuras, se podría explorar el ajuste fino de hiperparámetros (\textit{Hyperparameter Tuning}) para arañar los últimos puntos de precisión en las categorías combinadas.
+La unión de los datasets original y modificado ha sido clave para mejorar la robustez ante diferentes estilos de redacción. La adopción final del modelo SVM garantiza que el sistema no solo sea preciso, sino también transparente y eficiente para su despliegue real.
+
+La comparativa con modelos Transformer ha confirmado que, aunque estos modelos representan el estado del arte en PLN general y funcionan mejor con datos heterogéneos de múltiples usuarios, para un dataset pequeño con descripciones cortas y vocabulario predictivo de un único usuario, los modelos lineales clásicos son la opción más adecuada.
+
+Como líneas futuras, se proponen dos vías de mejora:
+\begin{itemize}
+    \item \textbf{Ajuste fino de hiperparámetros} (\textit{Hyperparameter Tuning}) para optimizar la precisión en las categorías combinadas.
+    \item \textbf{Estrategia híbrida para nuevos usuarios}: utilizar un modelo Transformer pre-entrenado (como BETO) como clasificador inicial para usuarios nuevos que aún no disponen de datos propios, ya que generaliza bien sin necesitar ejemplos específicos. Una vez que el usuario acumule una base de datos consistente, migrar automáticamente a un modelo \textbf{Linear SVM + TF-IDF}, mucho más eficiente y preciso para su vocabulario particular.
+    \item \textbf{Mejora de la vectorización}: explorar técnicas de vectorización más avanzadas, como Word2Vec o FastText, para capturar mejor el significado semántico de las palabras.
+    \item \textbf{Internacionalización}: Generación de corpus sintéticos en otros idiomas para internacionalizar la base de datos.
+\end{itemize}

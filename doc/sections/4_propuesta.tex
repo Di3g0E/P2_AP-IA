@@ -44,3 +44,21 @@ Tras las pruebas, el modelo \textbf{Linear SVM} obtuvo un \textbf{F1-Macro de 0.
 
 
 Por tanto, se ha seleccionado \texttt{LinearSVM.joblib} como el modelo principal para la implementación en el sistema de producción.
+
+\newpage
+\subsection{Comparativa con Modelos Transformer}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{figures/comparation_trans_models.png}
+    \caption{Comparativa de modelos Transformer: F1-Score y tiempo de entrenamiento}
+    \label{fig:comparation_trans_models}
+\end{figure}
+
+Además de los modelos clásicos, se realizaron pruebas con modelos \textbf{Transformer} pre-entrenados, aplicando \textit{fine-tuning} sobre el mismo dataset para clasificar el área a partir de la descripción. Se evaluaron cinco modelos: tres monolingües en español (\textbf{BETO}, \textbf{RoBERTa-BNE} y \textbf{BERTIN}) y dos multilingües (\textbf{XLM-RoBERTa} y \textbf{DistilBERT Multilingual}).
+
+Como se observa en la Figura \ref{fig:comparation_trans_models}, el mejor modelo Transformer fue \textbf{BETO} con un F1-Score de 0.9835, seguido de BERTIN (0.8685). Los modelos multilingües obtuvieron resultados significativamente inferiores: DistilBERT Multi (0.6246) y XLM-RoBERTa (0.5586).
+
+Sin embargo, incluso el mejor Transformer no supera al \textbf{Linear SVM} (F1 = 1.0), y el coste computacional es drásticamente mayor: cada modelo Transformer requiere entre 227 y 473 segundos de entrenamiento en CPU, frente a tiempos casi instantáneos para los modelos lineales. Esto se debe a que las descripciones del dataset son textos cortos con vocabulario muy predictivo, donde TF-IDF captura perfectamente las señales discriminativas sin necesidad de representaciones contextuales profundas.
+
+Por estas razones, para textos con estas características y un único usuario, nos decantamos por los modelos lineales clásicos, que ofrecen mayor precisión con un coste computacional mínimo.

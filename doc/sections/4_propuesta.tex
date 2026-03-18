@@ -24,12 +24,6 @@ Se evaluaron cuatro arquitecturas distintas mediante una validación con partici
 
 \newpage
 \subsection{Resultados y Selección Final}
-Tras las pruebas, el modelo \textbf{Linear SVM} obtuvo un \textbf{F1-Macro de 0.9481} con el dataset unificado \ref{fig:comparation_models} y \textbf{F1-Macro de 1} con el dataset modificado y revisado, superando al SGD original. Este modelo ofrece el mejor equilibrio entre:
-\begin{enumerate}
-    \item \textbf{Precisión}: Máxima eficacia en la separación de categorías complejas (como ``Ocio'' vs ``Ocio, Vacaciones'').
-    \item \textbf{Explicabilidad}: Al ser un modelo lineal, permite auditar los pesos de las palabras clave.
-    \item \textbf{Eficiencia}: Mantiene una huella de memoria ligera y tiempos de inferencia casi instantáneos.
-\end{enumerate}
 
 %  Añadir imagen gráfica
 \begin{figure}[h]
@@ -38,6 +32,14 @@ Tras las pruebas, el modelo \textbf{Linear SVM} obtuvo un \textbf{F1-Macro de 0.
     \caption{Resultados de la comparativa con el dataset conjunto}
     \label{fig:comparation_models}
 \end{figure}
+
+Tras las pruebas, el modelo \textbf{Linear SVM} obtuvo un \textbf{F1-Macro de 0.9481} con el dataset unificado \ref{fig:comparation_models} y \textbf{F1-Macro de 1} con el dataset modificado y revisado, superando al SGD original. Este modelo ofrece el mejor equilibrio entre:
+\begin{enumerate}
+    \item \textbf{Precisión}: Máxima eficacia en la separación de categorías complejas (como ``Ocio'' vs ``Ocio, Vacaciones'').
+    \item \textbf{Explicabilidad}: Al ser un modelo lineal, permite auditar los pesos de las palabras clave.
+    \item \textbf{Eficiencia}: Mantiene una huella de memoria ligera y tiempos de inferencia casi instantáneos.
+\end{enumerate}
+
 
 
 
